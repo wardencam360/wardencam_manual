@@ -1,7 +1,9 @@
-Getting Start
+Getting Started
 ==========
 
 .. toctree::
     :maxdepth: 2
 
-    Overview
+    transformations
+    privileges
+    other
