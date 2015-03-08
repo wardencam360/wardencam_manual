@@ -40,3 +40,4 @@ The best way to reach us is by email: *wardencam360@gmail.com*
 .. image:: img/intro.png
    :height: 320px
    :width: 440 px
+   :align: center

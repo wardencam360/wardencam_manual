@@ -5,5 +5,5 @@ Getting Started
     :maxdepth: 2
 
     overview
-    privileges
+    signingoogle
     other
