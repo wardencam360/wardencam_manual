@@ -4,6 +4,4 @@ Getting Start
 .. toctree::
     :maxdepth: 2
 
-    transformations
-    privileges
-    other
+    Overview

@@ -4,4 +4,6 @@ Getting Start
 .. toctree::
     :maxdepth: 2
 
-    Overview
+    overview
+    signingoogle
+    linkdropbox
