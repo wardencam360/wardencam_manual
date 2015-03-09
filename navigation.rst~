@@ -4,6 +4,6 @@ Getting Started
 .. toctree::
     :maxdepth: 2
 
-    camview
-    liveview
-    cloudview
+    overview
+    signingoogle
+    linkdropbox

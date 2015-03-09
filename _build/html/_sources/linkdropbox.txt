@@ -10,11 +10,8 @@ Link a Dropbox
 How to link a Dropbox account
 +++++++++++++++++++++++++++++
 
-| Dropbox icon before an account is linked
-| |dropbox_nl|
-| Dropbox icon with an linked account
-| |dropbox|
-|
+| Dropbox icon before an account is linked |dropbox_nl|
+| Dropbox icon with an linked account |dropbox|
 -  Click the **Dropbox icon** on the sign in screen.
 -  Sign in your Dropbox account and allow WardenCam to access a folder
 
@@ -24,11 +21,11 @@ How to link a Dropbox account
 Andoid authentication
 ---------------------
 | |Dropbox android|
-
+|
 iOS authentication
 ------------------
 | |Dropbox ios|
-
+|
 Developer tips
 ++++++++++++++
 1. It is always better to have **Dropbox app installed on the device**,
@@ -41,9 +38,9 @@ Developer tips
    replace the oldest file**.
 
 .. |dropbox_nl| image:: img/dropbox_nl.png
-   :width: 64pt
+   :width: 32pt
 .. |dropbox| image:: img/dropbox.png
-   :width: 64pt
+   :width: 32pt
 .. |Dropbox android| image:: img/dropboxAndroid.png
    :width: 270pt
 .. |Dropbox ios| image:: img/dropboxIOS.png
