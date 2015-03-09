@@ -1,7 +1,7 @@
 .. _notificaiton:
 
 Notification Settings
-===============
+=====================
 |
 | |user options|
 

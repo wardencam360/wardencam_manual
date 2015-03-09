@@ -14,6 +14,7 @@ Contents:
     start
     navigation
     customization
+    trial&upgrade
 
 
 Indices and tables

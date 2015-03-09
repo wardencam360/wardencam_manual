@@ -6,7 +6,7 @@ User Options
 | |user options|
 |
 .. |user options| image:: img/user_options.png
-  :width: 640pt
+  :width: 480pt
 
 Display in English
 ------------------
@@ -14,7 +14,7 @@ Display in English
 
 Show App Introduction
 ---------------------
-| Displays app introductions again
+| Displays app introduction again
 
 Auto-restart
 ------------

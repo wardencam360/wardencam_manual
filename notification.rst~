@@ -11,7 +11,7 @@ Notification Settings
 Motion Event Alarm
 ------------------
 | Receive a motion event alarm on the viewer device immediately when a motion event is detected.
-| You can choose "beep", "vibration" or "none"
+| You can choose "beep", "vibration" or "none".
 
 Reconnection Alarm
 ------------------

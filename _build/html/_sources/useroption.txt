@@ -14,7 +14,7 @@ Display in English
 
 Show App Introduction
 ---------------------
-| Displays app introductions again
+| Displays app introduction slides again
 
 Auto-restart
 ------------

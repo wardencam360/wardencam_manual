@@ -1,0 +1,21 @@
+.. _trial&upgrade:
+
+Trail & Upgrade
+===============
+| WardenCam is **free to try and test**. It come with a trial license valid for a limited number of days. Only after you completed the testing on your devices, you may upgrade to the premium version for a small & once only fee ($5.99 per US customer).
+
+Trial
+-----
+| Start the testing with your home WiFi network.
+| Make sure the viewer can connect externally with another WiFi or your mobile data network.
+| If you need more time to complete your test, please feel free to email wardencam360@gmail.com and ask for more trial time.
+
+Upgrade
+-------
+| |iap|
+
+.. |iap| image:: img/iap.png
+  :width: 425pt
+| If google play store / apple app store is available in your country, it is the easiest way to upgrade through in app purchase.
+| Once purchased the upgrade is linked to your google play / apple account. You can enable all devices.
+| Viewer function is always free and not limited by a timer. If you like to provide the viewing capability to your families/friends, you can do so for free.
