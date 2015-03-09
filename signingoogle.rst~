@@ -1,36 +1,37 @@
 .. _signingoogle:
 
-Sign in google
-===============
+Sign in Google
+==============
 
 To sign in WardenCam, you can either create a new account dedicated for surveillance use or just sign in with an existing google account on the device.
 
 | |Sign in android1| |Sign in android2|
 .. |Sign in android1| image:: img/signinandroid.png
+   :width: 270pt
 .. |Sign in android2| image:: img/chooseaccount.png
 
-Sign in with an existing account 
+Sign in with an existing account
 ++++++++++++++++++++++++++++++++
 
-* Toggle **“Cam”** & **“View”** switch 
+* Toggle **“Cam”** & **“View”** switch
 * Use **“Cam”** to  sign in the device as a camera
 * Use **“View”** to sign in the device as a viewer
-* Click **“Sign in via google”** button 
-* Select the right account to sign in 
+* Click **“Sign in via google”** button
+* Select the right account to sign in
 
 Create a new account
 ++++++++++++++++++++
 
-* Click **“Sign in via google”** button 
-* Click **“Add another account”** 
+* Click **“Sign in via google”** button
+* Click **“Add another account”**
 * Then you will be prompted to the new google account dialog
 * Follow the prompted dialog to add a new account to the device
-* Repeat the **Sign in with an existing account** procedure If you decide to sign in with a *gmail username and password*, you can enter the credentials to the text box and then click **“Sign in”** button.
+* Repeat the **Sign in with an existing account** procedure If you decide to sign in with a *gmail username and password*, you can enter the credentials to the text box and then click **“Sign in”** button
 
 iOS sign in
 +++++++++++
-Sign in the iOS app is almost the same as the Android app.
-The difference is that when you **sign in via a google account**, you always need to authorize the account via **google authentication webpage** as least once.
+| Sign in the iOS app is almost the same as the Android app.
+| The difference is that when you **sign in via a google account**, you always need to authorize the account via **google authentication webpage** as least once.
 
 | |Sign in ios1| |Sign in ios2| 
 .. |Sign in ios1| image:: img/signinios.png

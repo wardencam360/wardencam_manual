@@ -1,16 +1,14 @@
-WardenCam supports **full integration with Dropbox**, which means you
-can directly record and save video to a folder *“app/wardencam”* in your
-Dropbox space, which you authorize WardenCam to use.
+.. _linkdropbox:
 
-Since Dropbox is ubiquitous available on all platforms, WardenCam’s
-integration with Dropbox provides you **the ability to monitor and
-manage recordings anywhere and anytime**.
+Link a Dropbox
+==============
 
-The video are saved to the cloud storage in seconds. **You don’t ever
-have to worry about losing the video evidence**.
+|WardenCam supports **full integration with Dropbox**, which means you can directly record and save video to a folder *“app/wardencam”* in your Dropbox space, which you authorize WardenCam to use.
+|Since Dropbox is ubiquitous available on all platforms, WardenCam’s integration with Dropbox provides you **the ability to monitor and manage recordings anywhere and anytime**.
+|The video are saved to the cloud storage in seconds. **You don’t ever have to worry about losing the video evidence**.
 
 How to link a Dropbox account
------------------------------
++++++++++++++++++++++++++++++
 
 | Dropbox icon before an account is linked
 | |Dropbox android|
@@ -39,7 +37,7 @@ Developer tips
 3. Once the mamimum space is utilized, **the new file will automatically
    replace the oldest file**.
 
-.. |Dropbox android| image:: img/dropbox_nl.png%20=%2064x64
-.. |Dropbox android| image:: img/dropbox.png%20=%2064x64
-.. |Dropbox android| image:: img/dropboxAndroid.png%20=270x480
-.. |Dropbox ios| image:: img/dropboxIOS.png%20=270x480
+.. |Dropbox android| image:: img/dropbox_nl.png
+.. |Dropbox android| image:: img/dropbox.png
+.. |Dropbox android| image:: img/dropboxAndroid.png
+.. |Dropbox ios| image:: img/dropboxIOS.png

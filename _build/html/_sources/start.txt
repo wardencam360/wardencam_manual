@@ -6,4 +6,4 @@ Getting Started
 
     overview
     signingoogle
-    other
+    linkdropbox
