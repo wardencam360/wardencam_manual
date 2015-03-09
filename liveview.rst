@@ -1,7 +1,7 @@
 .. _liveview:
 
 Live View
-+++++++++
+=========
 
 | After signing in as viewer, the live view is then opened.
 | The live view shows the **live streaming from the connected camera device, the status of the camera device, a list of available cameras, and a few control buttons**.
@@ -76,8 +76,7 @@ fps, kbps, & resolution
 | resolution = image resolution in pixels
 
 Developer tips
-++++++++++++++
-
+--------------
 1. Live video are normally streamed via peer to peer connection. No
    third party is involved to handle the video stream.
 2. Pay extra attention to the P2P connection icon. P2P failure is

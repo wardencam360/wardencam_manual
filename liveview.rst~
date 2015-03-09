@@ -61,8 +61,9 @@ P2P connection icon |p2p1| |p2p2|
 
 Vistapoints
 -----------
-
+|
 | |vistapoints|
+|
 | Vistapoints shows a list of available camera devices.
 | Clicking on a camera name to connect to a different camera device.
 | To add another camera, just sign in with the same google account.
@@ -75,8 +76,7 @@ fps, kbps, & resolution
 | resolution = image resolution in pixels
 
 Developer tips
-++++++++++++++
-
+--------------
 1. Live video are normally streamed via peer to peer connection. No
    third party is involved to handle the video stream.
 2. Pay extra attention to the P2P connection icon. P2P failure is

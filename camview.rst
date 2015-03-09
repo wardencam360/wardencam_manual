@@ -37,7 +37,7 @@ Save energy button |energy icon|
 | |camIOS|
 |
 Developer tips
-++++++++++++++
+--------------
 
 1. On android device, once the camera view is started, just press the
    *power button* to turn off the display. Avoid pressing home button.
