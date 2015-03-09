@@ -34,8 +34,8 @@ Delete video(s)
 Developer tips
 --------------
 
-1. The video logs are saved in “\*\*apps\*" folder
-2. Motion recordings are saved in “\*\*apps\*" folder
+1. The video logs are saved in “*\apps\wardencam\log*" folder
+2. Motion recordings are saved in “*\apps\wardencam\event*" folder
 3. The camera and viewer **should be linked to the same Dropbox
    account!** 
 | |dropbox folder|

@@ -3,9 +3,9 @@
 Link a Dropbox
 ==============
 
-|WardenCam supports **full integration with Dropbox**, which means you can directly record and save video to a folder *“app/wardencam”* in your Dropbox space, which you authorize WardenCam to use.
-|Since Dropbox is ubiquitous available on all platforms, WardenCam’s integration with Dropbox provides you **the ability to monitor and manage recordings anywhere and anytime**.
-|The video are saved to the cloud storage in seconds. **You don’t ever have to worry about losing the video evidence**.
+| WardenCam supports **full integration with Dropbox**, which means you can directly record and save video to a folder *“app/wardencam”* in your Dropbox space, which you authorize WardenCam to use.
+| Since Dropbox is ubiquitous available on all platforms, WardenCam’s integration with Dropbox provides you **the ability to monitor and manage recordings anywhere and anytime**.
+| The video are saved to the cloud storage in seconds. **You don’t ever have to worry about losing the video evidence**.
 
 How to link a Dropbox account
 +++++++++++++++++++++++++++++

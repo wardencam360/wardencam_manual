@@ -30,12 +30,13 @@ Technical Support
 
 | Whenever you are in doubt or having questions, **please feel free to contact us for technical support**.
 | The best way to reach us is by email: *wardencam360@gmail.com*
-.. image:: img/intro.png
-   :width: 440pt
-   :align: center
 Demo Video
 +++++++++++++++++
 | Watch WardenCam `demo video`_
+.. image:: img/intro.png
+   :width: 440pt
+   :align: center
+
 
 .. _Google Play Store: https://play.google.com/store/apps/details?id=com.warden.cam
 .. _iTune store: https://itunes.apple.com/app/id914224766
