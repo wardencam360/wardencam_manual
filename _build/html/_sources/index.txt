@@ -13,6 +13,7 @@ Contents:
 
     start
     navigation
+    customization
 
 
 Indices and tables

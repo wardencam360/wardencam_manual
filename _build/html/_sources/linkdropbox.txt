@@ -27,7 +27,7 @@ iOS authentication
 | |Dropbox ios|
 |
 Developer tips
---------------
+++++++++++++++
 1. It is always better to have **Dropbox app installed on the device**,
    if you experienced issues during the account authentication.
 2. The default maximum space for 24/7 video log is **500MB**. The

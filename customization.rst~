@@ -4,7 +4,7 @@ Customization
 .. toctree::
     :maxdepth: 2
 
-    useroption
+    useroptions
     camera
     dropbox
     notification
