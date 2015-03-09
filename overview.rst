@@ -9,7 +9,7 @@ any google account on one as “camera” and the other as “viewer”, Motion
 detection recording and 24/7 recording can be enable once you link your
 Dropbox account.
 
-Where to download
+Where to Download
 +++++++++++++++++
 
 WardenCam works on both Android and iOS devices.
@@ -25,16 +25,18 @@ valid for a limited number of days. Only after you completed the testing
 on your devices, you may upgrade to the premium version for a small &
 once only fee ($5.99 per US customer).
 
-Technical support
+Technical Support
 +++++++++++++++++
 
 | Whenever you are in doubt or having questions, **please feel free to contact us for technical support**.
 | The best way to reach us is by email: *wardencam360@gmail.com*
-
-.. _Google Play Store: https://play.google.com/store/apps/details?id=com.warden.cam
-.. _iTune store: https://itunes.apple.com/app/id914224766
-
 .. image:: img/intro.png
    :width: 440pt
    :align: center
-|
+Demo Video
++++++++++++++++++
+| Watch WardenCam `demo video`_
+
+.. _Google Play Store: https://play.google.com/store/apps/details?id=com.warden.cam
+.. _iTune store: https://itunes.apple.com/app/id914224766
+.. _demo video: https://www.youtube.com/watch?v=UObAA8vslXU

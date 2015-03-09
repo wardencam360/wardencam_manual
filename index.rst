@@ -15,6 +15,7 @@ Contents:
     navigation
     customization
     trial&upgrade
+    faq
 
 
 Indices and tables

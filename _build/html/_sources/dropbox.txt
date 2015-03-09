@@ -1,7 +1,7 @@
 .. _dropbox:
 
 Dropbox Settings
-===============
+================
 | **Changing the dropbox settings is only effective if the device is being used as the camera.**
 |
 | |user options|
