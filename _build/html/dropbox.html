@@ -6,7 +6,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>User Options &mdash; WardenCam User Manual 1.0 documentation</title>
+    <title>Dropbox Settings &mdash; WardenCam User Manual 1.0 documentation</title>
     
     <link rel="stylesheet" href="_static/default.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
@@ -25,8 +25,8 @@
     <script type="text/javascript" src="_static/doctools.js"></script>
     <link rel="top" title="WardenCam User Manual 1.0 documentation" href="index.html" />
     <link rel="up" title="Customization" href="customization.html" />
-    <link rel="next" title="Camera Settings" href="camera.html" />
-    <link rel="prev" title="Customization" href="customization.html" /> 
+    <link rel="next" title="Notification Settings" href="notification.html" />
+    <link rel="prev" title="Camera Settings" href="camera.html" /> 
   </head>
   <body>
     <div class="related">
@@ -36,10 +36,10 @@
           <a href="genindex.html" title="General Index"
              accesskey="I">index</a></li>
         <li class="right" >
-          <a href="camera.html" title="Camera Settings"
+          <a href="notification.html" title="Notification Settings"
              accesskey="N">next</a> |</li>
         <li class="right" >
-          <a href="customization.html" title="Customization"
+          <a href="camera.html" title="Camera Settings"
              accesskey="P">previous</a> |</li>
         <li><a href="index.html">WardenCam User Manual 1.0 documentation</a> &raquo;</li>
           <li><a href="customization.html" accesskey="U">Customization</a> &raquo;</li> 
@@ -51,45 +51,36 @@
         <div class="bodywrapper">
           <div class="body">
             
-  <div class="section" id="user-options">
-<span id="useroption"></span><h1>User Options<a class="headerlink" href="#user-options" title="Permalink to this headline">¶</a></h1>
+  <div class="section" id="dropbox-settings">
+<span id="dropbox"></span><h1>Dropbox Settings<a class="headerlink" href="#dropbox-settings" title="Permalink to this headline">¶</a></h1>
 <div class="line-block">
+<div class="line"><strong>Changing the dropbox settings is only effective if the device is being used as the camera.</strong></div>
 <div class="line"><br /></div>
-<div class="line"><a class="reference internal" href="_images/user_options.png"><img alt="user options" src="_images/user_options.png" style="width: 480pt;" /></a></div>
-<div class="line"><br /></div>
+<div class="line"><a class="reference internal" href="_images/dropbox_settings.png"><img alt="user options" src="_images/dropbox_settings.png" style="width: 480pt;" /></a></div>
 </div>
-<div class="section" id="display-in-english">
-<h2>Display in English<a class="headerlink" href="#display-in-english" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="dropbox-folder-size">
+<h2>Dropbox Folder Size<a class="headerlink" href="#dropbox-folder-size" title="Permalink to this headline">¶</a></h2>
 <div class="line-block">
-<div class="line">Enable this control if you prefer to overwrite the system language and use English representation for WardenCam</div>
+<div class="line">Sets the maximum reserved size for 24/7 video recordings.</div>
+<div class="line">The default size is 500MB. Maximum size can be 20GB.</div>
+<div class="line">New video log will automatically replace the oldest log.</div>
 </div>
 </div>
-<div class="section" id="show-app-introduction">
-<h2>Show App Introduction<a class="headerlink" href="#show-app-introduction" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="max-saved-motion-events">
+<h2>Max Saved Motion Events<a class="headerlink" href="#max-saved-motion-events" title="Permalink to this headline">¶</a></h2>
 <div class="line-block">
-<div class="line">Displays app introductions again</div>
+<div class="line">Sets the maximum number of saved motion detection events.</div>
+<div class="line">The default max saved events is 500.</div>
+<div class="line">New motion event recording will automatically replace the oldest.</div>
 </div>
 </div>
-<div class="section" id="auto-restart">
-<h2>Auto-restart<a class="headerlink" href="#auto-restart" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="recording">
+<h2>24/7 Recording<a class="headerlink" href="#recording" title="Permalink to this headline">¶</a></h2>
 <div class="line-block">
-<div class="line">Automaticly start WardenCam when a device finishes rebooting.</div>
-<div class="line">WardenCam will sign in with the saved account information.</div>
-<div class="line">You may want to enable this option on the camera device to improve reliability.</div>
+<div class="line">Enable 24/7 recording to start video log.</div>
+<div class="line">Camera will continuously record and upload video clips to your Dropbox space.</div>
+<div class="line">Enable 24/7 recording will consume lots of internet bandwidth.</div>
 </div>
-</div>
-<div class="section" id="secure-port">
-<h2>Secure Port<a class="headerlink" href="#secure-port" title="Permalink to this headline">¶</a></h2>
-<div class="line-block">
-<div class="line">Enable this option when you sign in with a public network such as a company network, schoold network, store network...</div>
-</div>
-</div>
-<div class="section" id="developer-tips">
-<h2>Developer Tips<a class="headerlink" href="#developer-tips" title="Permalink to this headline">¶</a></h2>
-<ol class="arabic simple">
-<li>During the sign in step, if you repeatedly get &#8220;time out&#8221; error, it will be a good idea to enable &#8220;secure port&#8221; in settings.</li>
-<li>If you enable &#8220;Auto-restart&#8221;, please expect for a few minutes delay between the device reboot and camera getting ready to connect.</li>
-</ol>
 </div>
 </div>
 
@@ -101,25 +92,23 @@
         <div class="sphinxsidebarwrapper">
   <h3><a href="index.html">Table Of Contents</a></h3>
   <ul>
-<li><a class="reference internal" href="#">User Options</a><ul>
-<li><a class="reference internal" href="#display-in-english">Display in English</a></li>
-<li><a class="reference internal" href="#show-app-introduction">Show App Introduction</a></li>
-<li><a class="reference internal" href="#auto-restart">Auto-restart</a></li>
-<li><a class="reference internal" href="#secure-port">Secure Port</a></li>
-<li><a class="reference internal" href="#developer-tips">Developer Tips</a></li>
+<li><a class="reference internal" href="#">Dropbox Settings</a><ul>
+<li><a class="reference internal" href="#dropbox-folder-size">Dropbox Folder Size</a></li>
+<li><a class="reference internal" href="#max-saved-motion-events">Max Saved Motion Events</a></li>
+<li><a class="reference internal" href="#recording">24/7 Recording</a></li>
 </ul>
 </li>
 </ul>
 
   <h4>Previous topic</h4>
-  <p class="topless"><a href="customization.html"
-                        title="previous chapter">Customization</a></p>
-  <h4>Next topic</h4>
   <p class="topless"><a href="camera.html"
-                        title="next chapter">Camera Settings</a></p>
+                        title="previous chapter">Camera Settings</a></p>
+  <h4>Next topic</h4>
+  <p class="topless"><a href="notification.html"
+                        title="next chapter">Notification Settings</a></p>
   <h3>This Page</h3>
   <ul class="this-page-menu">
-    <li><a href="_sources/useroption.txt"
+    <li><a href="_sources/dropbox.txt"
            rel="nofollow">Show Source</a></li>
   </ul>
 <div id="searchbox" style="display: none">
@@ -146,10 +135,10 @@
           <a href="genindex.html" title="General Index"
              >index</a></li>
         <li class="right" >
-          <a href="camera.html" title="Camera Settings"
+          <a href="notification.html" title="Notification Settings"
              >next</a> |</li>
         <li class="right" >
-          <a href="customization.html" title="Customization"
+          <a href="camera.html" title="Camera Settings"
              >previous</a> |</li>
         <li><a href="index.html">WardenCam User Manual 1.0 documentation</a> &raquo;</li>
           <li><a href="customization.html" >Customization</a> &raquo;</li> 
