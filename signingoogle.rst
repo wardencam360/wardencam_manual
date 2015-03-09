@@ -36,7 +36,9 @@ iOS sign in
 
 | |Sign in ios1| |Sign in ios2| 
 .. |Sign in ios1| image:: img/signinios.png
+   :width: 270pt
 .. |Sign in ios2| image:: img/iosauth.png
+   :width: 270pt
 
 Developer tips
 ++++++++++++++

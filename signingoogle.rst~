@@ -9,6 +9,7 @@ To sign in WardenCam, you can either create a new account dedicated for surveill
 .. |Sign in android1| image:: img/signinandroid.png
    :width: 270pt
 .. |Sign in android2| image:: img/chooseaccount.png
+   :width: 270pt
 
 Sign in with an existing account
 ++++++++++++++++++++++++++++++++
@@ -35,7 +36,9 @@ iOS sign in
 
 | |Sign in ios1| |Sign in ios2| 
 .. |Sign in ios1| image:: img/signinios.png
+   :width: 270pt
 .. |Sign in ios2| image:: img/iosauth.png
+   :width: 270pt
 
 Developer tips
 ++++++++++++++
