@@ -21,7 +21,7 @@ Just put that old smart devices back to work. Use WardenCam to transform
 your spare device to the most advanced surveillance camera.
 
 WardenCam is **free to try and test**. It come with a trial license
-valid for a limited number of days. Only after you completed the testing
+valid for a limited number of days. Only after you completed testing
 on your devices, you may upgrade to the premium version for a small &
 once only fee ($5.99 per US customer).
 
