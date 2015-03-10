@@ -28,11 +28,13 @@ once only fee ($5.99 per US customer).
 Technical Support
 +++++++++++++++++
 
-| Whenever you are in doubt or having questions, **please feel free to contact us for technical support**.
-| The best way to reach us is by email: *wardencam360@gmail.com*
+Whenever you are in doubt or having questions, **please feel free to contact us for technical support**.
+
+The best way to reach us is by email: *wardencam360@gmail.com*
+
 Demo Video
 +++++++++++++++++
-| Watch WardenCam `demo video`_
+Watch WardenCam `demo video`_
 .. image:: img/intro.png
    :width: 440pt
    :align: center

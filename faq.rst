@@ -85,6 +85,6 @@ What if I upgrade on the viewer device first?
 
 More questions?
 +++++++++++++++
-| Email the developer wardencam360@gmail.com.
+| Email the developer support@wardencam360.com.
 
 

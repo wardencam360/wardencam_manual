@@ -29,7 +29,8 @@ Technical Support
 +++++++++++++++++
 
 | Whenever you are in doubt or having questions, **please feel free to contact us for technical support**.
-| The best way to reach us is by email: *wardencam360@gmail.com*
+|
+| The best way to reach us is by email: *support@wardencam360.com*
 Demo Video
 +++++++++++++++++
 | Watch WardenCam `demo video`_
