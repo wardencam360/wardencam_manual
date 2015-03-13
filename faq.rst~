@@ -3,6 +3,11 @@
 FAQ
 ===
 
+What is the minimum Hardware reqirement?
+++++++++++++++++++++++++++++++++++++++++
+| Android: 1GHz CPU + 512MB RAM
+| iOS: iOS7 and above
+
 How to start monitoring?
 ++++++++++++++++++++++++
 | You just need to install the app on two devices. Then sign in with a google account. Select "Cam" to suse the device as a camera. Select "View" to receive video and audio live streaming. Motion detection recording and 24/7 recording can be achieved once you link your Dropbox account.
@@ -71,6 +76,14 @@ How to use mutliple devices as cameras?
 | Sign in with the same google account on multiple devices as cameras.
 | On the viewer, you will see a list of available camera from the vistapoints drop down list.
 
+How to purchase the upgrade?
+++++++++++++++++++++++++++++
+| Click the info button (2nd button on the sign in screen)
+| Scroll down. You will see the "upgrade me" button
+| You can purchase through google play store and iOS store. Email support if the purchase is not available.
+| Only the camera device requires the upgrade to run for 24/7. Make sure you upgrade on the camera device first.
+| The upgrade is tied to your google play / apple account.
+
 Do I need to pay the upgrade fee multiple times?
 ++++++++++++++++++++++++++++++++++++++++++++++++
 | No. You only need to purchase the upgrade once.
@@ -85,6 +98,6 @@ What if I upgrade on the viewer device first?
 
 More questions?
 +++++++++++++++
-| Email the developer wardencam360@gmail.com.
+| Email the developer support@wardencam360.com.
 
 
