@@ -79,9 +79,11 @@ How to use mutliple devices as cameras?
 How to purchase the upgrade?
 ++++++++++++++++++++++++++++
 On Android:
+----------
 | Click the info button (2nd button on the sign in screen)
 | Scroll down. You will see the "upgrade me" button
 On iOS:
+------
 | Click the shuttle button (3rd button on the sign in screen)
 | You will then see the in app purchase dialog
 |
