@@ -5,7 +5,7 @@ FAQ
 
 What is the minimum Hardware reqirement?
 ++++++++++++++++++++++++++++++++++++++++
-| Android: 1GHz CPU + 512MB RAM
+| Android: 1GHz CPU + 512MB RAM, OS 2.3+
 | iOS: iOS7 and above
 
 How to start monitoring?
