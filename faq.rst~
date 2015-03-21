@@ -123,7 +123,7 @@ More questions?
 +++++++++++++++
 | Email the developer support@wardencam360.com.
 
-.. |bluestacks install| image:: img/bluestacks_install.JPG
-.. |app player| image:: img/app_player.JPG
-.. |app wardencam| image:: img/wardencam.JPG
+.. |bluestacks install| image:: img/bluestacks_install.png
+.. |app player| image:: img/app_player.png
+.. |app wardencam| image:: img/wardencam.png
 
