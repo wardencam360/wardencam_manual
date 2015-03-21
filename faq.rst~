@@ -107,9 +107,7 @@ How to run WardenCam on a Windows PC?
 +++++++++++++++++++++++++++++++++++++
 | BlueStacks is an Android simulator which allows you to run any Android apps on your PC.
 | Download and install `BlueStacks`_
-.. _BlueStacks: http://www.bluestacks.com/download.html
-| Download 'WardenCam'_ installation file WardenCam.apk
-.. _WardenCam.apk: http://bit.ly/1yERYLH
+| Download WardenCam installation file WardenCam.apk
 | After you finish the previous two steps. You should see these two icons.
 | |bluestacks install|
 |
@@ -126,6 +124,7 @@ More questions?
 +++++++++++++++
 | Email the developer support@wardencam360.com.
 
+.. _BlueStacks: http://www.bluestacks.com/download.html
 .. |bluestacks install| image:: img/bluestacks_install.png
 .. |app player| image:: img/app_player.png
 .. |app wardencam| image:: img/wardencam.png
