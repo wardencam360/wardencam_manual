@@ -125,7 +125,6 @@ More questions?
 .. _BlueStacks: http://www.bluestacks.com/download.html
 .. _WardenCam.apk: http://bit.ly/1yERYLH
 .. |bluestacks install| image:: img/bluestacks_install.png
-   :width: 192pt
 .. |app player| image:: img/app_player.png
 .. |app wardencam| image:: img/wardencam.png
 
