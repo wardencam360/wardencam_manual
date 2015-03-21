@@ -5,7 +5,7 @@ FAQ
 
 What is the minimum Hardware reqirement?
 ++++++++++++++++++++++++++++++++++++++++
-| Android: 1GHz CPU + 512MB RAM
+| Android: 1GHz CPU + 512MB RAM, OS 2.3+
 | iOS: iOS7 and above
 
 How to start monitoring?
@@ -103,8 +103,27 @@ What if I upgrade on the viewer device first?
 | Before you manually upgrade the camera device, it is still running as the trial.
 | The manual enable procedure is simply to sign in once on the camera device as a camera or a viewer.
 
+How to run WardenCam on a Windows PC?
++++++++++++++++++++++++++++++++++++++
+| BlueStacks is an Android simulator which allows you to run any Android apps on your PC.
+| Download and install `BlueStacks`_
+.. _BlueStacks: http://www.bluestacks.com/download.html
+| Download 'WardenCam apk installation file'_
+.. _WardenCam apk installation file: https://www.dropbox.com/s/084ewt94fs3sz5r/WardenCam.apk?dl=0
+| After you finish the previous two steps. You should see these two icons.
+| |bluestacks install|
+| Next double click WardenCam.apk file to install WardenCam inside BlueStacks.
+| After you finish the installation, double click "Start BlueStacks" to run BlueStacks App Player.
+| You should see WardenCam appears in BlueStacks App Player running on your Windows PC.
+| |app player|
+| Open WardenCam inside the app player. You can get all WardenCam functionality as if you are running it on an Android device!
+| |app wardencam|
+
 More questions?
 +++++++++++++++
 | Email the developer support@wardencam360.com.
 
+.. |bluestacks install| image:: img/bluestacks_install.JPG
+.. |app player| image:: img/app_player.JPG
+.. |app wardencam| image:: img/wardencam.JPG
 
