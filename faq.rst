@@ -94,7 +94,7 @@ On iOS:
 Do I need to pay the upgrade fee multiple times?
 ++++++++++++++++++++++++++++++++++++++++++++++++
 | No. You only need to purchase the upgrade once.
-| The upgrade is linked to your google play account. You can enable the upgrade on all your devices.
+| The upgrade is linked to your google play account / apple account. You can enable the upgrade on all your Android devices with a play store purchase / all your iOS devices with an app store purchase.
 | It is preferred to upgrade on the camera device instead of the viewer device.
 
 What if I upgrade on the viewer device first?
