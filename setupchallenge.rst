@@ -8,8 +8,13 @@ Most Creative Setup
 
 How to Participate
 ------------------
-- Go to "User Guide". Press "facebook" icon in the "Win a Prize" section.
+- Go to "User Guide"
 | |user guide|
 
 .. |user guide| image:: img/user_guide.png
-  :width: 480pt
+  :width: 240pt
+- Press "facebook" icon in the "Win a Prize" section
+| |challenges|
+
+.. |challenges| image:: img/challenges.png
+  :width: 240pt
