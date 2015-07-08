@@ -11,5 +11,5 @@ How to Participate
 - Go to "User Guide". Press "facebook" icon in the "Win a Prize" section.
 | |user guide|
 
-.. |user options| image:: img/user_guide.png
+.. |user guide| image:: img/user_guide.png
   :width: 480pt
