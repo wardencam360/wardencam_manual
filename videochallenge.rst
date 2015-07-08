@@ -41,4 +41,4 @@ Redeem the Prize
 - The login credential of the 18GB Dropbox account will be provided to the winner.
 | |dropbox account|
 .. |dropbox account| image:: img/dropbox_account.png
-  :width: 200pt
+  :width: 160pt
