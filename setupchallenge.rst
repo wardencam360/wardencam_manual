@@ -7,5 +7,9 @@ Most Creative Setup
 - The facebook post with **the most likes** from the WardenCam fan page and user's facebook page wins the prize.
 
 How to Participate
-==================
+------------------
+- Go to "User Guide". Press "facebook" icon in the "Win a Prize" section.
+| |user guide|
 
+.. |user options| image:: img/user_guide.png
+  :width: 480pt
