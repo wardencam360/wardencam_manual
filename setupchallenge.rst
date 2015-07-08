@@ -18,3 +18,13 @@ How to Participate
 
 .. |challenges| image:: img/challenges.png
   :width: 240pt
+- Press "Challenge 1: Most creative setup". You will then prompt to the camera app to take a picture of your WardenCam setup.
+| |take pic|
+
+.. |take pic| image:: img/take_pic.png
+  :width: 240pt
+- Once the picture is accepted, a facebook share dialog is shown. Don't forget to type "#wardencam" in the post. Press "post". You are now in the competition to win the free upgrade.
+| |share image|
+
+.. |share image| image:: img/image_share.png
+  :width: 240pt
