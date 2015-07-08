@@ -10,4 +10,5 @@ Contents:
     navigation
     customization
     trial&upgrade
+    challenge
     faq
