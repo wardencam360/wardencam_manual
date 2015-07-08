@@ -31,13 +31,13 @@ How to Participate
 .. |share image| image:: img/image_share.png
   :width: 240pt
 
-Redeem the prize
+Redeem the Prize
 ----------------
 - The winner will be annouced on WardenCam facebook fan page and contact directly through facebook messenger.
 - An upgrade activation code will be sent to the winner.
 - To redeem the activation code, please follow the manual upgrade procedure below.
 
-Manual upgrade procedure
+Manual Upgrade Procedure
 ------------------------
 - Enable the alternative method in "WardenCam Pro Store" (see the red "ENABLED" button. Press the button once if it is grey).
 | |store enable|
