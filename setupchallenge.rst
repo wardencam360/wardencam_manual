@@ -3,8 +3,8 @@
 Most Creative Setup
 ===================
 - To participate in this challenge, you will have a chance to win **a free WardenCam lifetime upgrade on your Android device.**
-- In this challenge, simply take a picture of your WardenCam camera setup and post it on facebook.
-- The facebook post with **the most likes** from the WardenCam fan page and user's facebook page wins the prize.
+- In this challenge, simply take a picture of your WardenCam camera setup and post it on Facebook.
+- The Facebook post with **the most likes** from the WardenCam fan page and user's Facebook page wins the prize.
 
 How to Participate
 ------------------
@@ -13,7 +13,7 @@ How to Participate
 
 .. |user guide| image:: img/user_guide.png
   :width: 240pt
-- Press "facebook" icon in the "Win a Prize" section
+- Press "Facebook" icon in the "Win a Prize" section
 | |challenges|
 
 .. |challenges| image:: img/challenges.png
@@ -23,7 +23,7 @@ How to Participate
 
 .. |take pic| image:: img/take_pic.png
   :width: 240pt
-- Once the picture is accepted, a facebook share dialog is shown.
+- Once the picture is accepted, a Facebook share dialog is shown.
 - **Don't forget to type "#wardencam"** in the post.
 - Press "post" button. You are now in the competition to win the free upgrade.
 | |share image|
@@ -33,7 +33,7 @@ How to Participate
 
 Redeem the Prize
 ----------------
-- The winner will be annouced on WardenCam facebook fan page and contact directly through facebook messenger.
+- The winner will be announced on WardenCam Facebook fan page and contact directly through Facebook messenger.
 - An upgrade activation code will be sent to the winner.
 - To redeem the activation code, please follow the manual upgrade procedure below.
 

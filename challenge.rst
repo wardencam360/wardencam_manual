@@ -6,3 +6,4 @@ Win a Prize
 
     setupchallenge
     videochallenge
+	termsandconditions
