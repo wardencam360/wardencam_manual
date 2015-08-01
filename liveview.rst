@@ -71,7 +71,7 @@ Vistapoints
 fps, kbps, & resolution
 -----------------------
 
-| fpg = frames per second
+| fps = frames per second
 | kbps = kilo bytes per second
 | resolution = image resolution in pixels
 

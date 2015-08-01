@@ -10,13 +10,13 @@ What is the minimum Hardware reqirement?
 
 How to start monitoring?
 ++++++++++++++++++++++++
-| You just need to install the app on two devices. Then sign in with a google account. Select "Cam" to suse the device as a camera. Select "View" to receive video and audio live streaming. Motion detection recording and 24/7 recording can be achieved once you link your Dropbox account.
+| You just need to install the app on two devices. Then sign in with a google account. Select "Cam" to use the device as a camera. Select "View" to receive video and audio live streaming. Motion detection recording and 24/7 recording can be achieved once you link your Dropbox account.
 | Watch the `demo video`_
 .. _demo video: https://www.youtube.com/watch?v=UObAA8vslXU
 
 Failed to sign in?
 ++++++++++++++++++
-| If you failed to sign in with an existing account, make sure the username and p/w are correct and the account is not protected by google 2-step verificaiton.
+| If you failed to sign in with an existing account, make sure the username and p/w are correct and the account is not protected by google 2-step verificaition.
 | If using a public network, make sure "secure port" option is used.
 | You may also create a new google account dedicated for surveillance use.
 
@@ -24,7 +24,7 @@ How to start recording?
 +++++++++++++++++++++++
 | Enable 24/7 recording in settings. Click Dropbox icon. Authorize WardenCam to create a folder "apps\wardencam".
 | Link the same Dropbox account on both the camera and the viewer.
-| All 24/7 video logg and motion event recordings will be uploaded to this folder.
+| All 24/7 video log and motion event recordings will be uploaded to this folder.
 
 How to improve image quality / FPS?
 +++++++++++++++++++++++++++++++++++
@@ -43,19 +43,19 @@ How to make WardenCam work with a slow network?
 Red exclamation mark?
 +++++++++++++++++++++
 | Red exlamation mark means peer to peer connection is not established.
-| Some network configuration and mobile carrier can disable the peer to peer feature for vairous reasons.
-| In this case, the communcation mode will change to server based.
+| Some network configuration and mobile carrier can disable the peer to peer feature for various reasons.
+| In this case, the communication mode will change to server based.
 | You may experience a drop in video and audio quality and a less reliable connection.
 | At the same time, you need to keep the kbps lower than 50 kbps to maintain connection.
 
 How to reduce kbps?
 +++++++++++++++++++
-| You can reduce kbps (network bandwidth utilization) through the followin camera options.
+| You can reduce kbps (network bandwidth utilization) through the following camera options.
 * Use a lower image resolution
-* Enablw low image quality
+* Enable low image quality
 * Enable save power
 
-My devide is losing power?
+My device is losing power?
 ++++++++++++++++++++++++++
 | A powerful phone can deliver a high fps; but also drain lots of power.
 | If the battery is running out even when the phone is being charged, please check "save power" option in settings.
@@ -71,7 +71,7 @@ How to request more trial hours?
 | Just email the develper wardencam360@gmail.com and ask for more trial hours to testing.
 | Completely free!
 
-How to use mutliple devices as cameras?
+How to use multiple devices as cameras?
 +++++++++++++++++++++++++++++++++++++++
 | Sign in with the same google account on multiple devices as cameras.
 | On the viewer, you will see a list of available camera from the vistapoints drop down list.
@@ -91,16 +91,16 @@ On iOS:
 | Only the camera device requires the upgrade to run for 24/7. Make sure you upgrade on the camera device first.
 | The upgrade is tied to your google play / apple account.
 
-Do I need to pay the upgrade fee multiple times for my Android devices?
+I purchase the upgrade on my Android device. How do I enable the upgrade on my other Android devices?
 ++++++++++++++++++++++++++++++++++++++++++++++++
-| No. You only need to purchase the upgrade once for your all Android devices.
-| The upgrade is linked to your google play account. You can enable the upgrade on all your Android devices with one play store purchase.
+| You only need to purchase the upgrade once for your all Android devices.
+| The upgrade is linked to your google play account. The purchase can be recognized on all your Android devices as long as they have the same google play account in sync.
 | It is preferred to upgrade first on the camera device instead of the viewer device.
 
-Do I need to pay the upgrade fee multiple times for my Apple devices?
+I purchase the upgrade on my iOS device. How do I enable the upgrade on my other iOS devices?
 ++++++++++++++++++++++++++++++++++++++++++++++++
-| No. You only need to purchase the upgrade once for your all Apple devices.
-| The upgrade is linked to your iTunes account. You can enable the upgrade on all your Apple devices with one app store purchase.
+| You only need to purchase the upgrade once for your all Apple devices.
+| The upgrade is linked to your iTunes account. The purchase can be recognized on all your Android devices as long as they have the same apple account in sync.
 | It is preferred to upgrade first on the camera device instead of the viewer device.
 
 Can I transfer my purchase between iOS and Android?

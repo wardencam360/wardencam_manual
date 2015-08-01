@@ -1,7 +1,7 @@
 .. _liveview:
 
 Live View
-+++++++++
+=========
 
 | After signing in as viewer, the live view is then opened.
 | The live view shows the **live streaming from the connected camera device, the status of the camera device, a list of available cameras, and a few control buttons**.
@@ -71,7 +71,7 @@ Vistapoints
 fps, kbps, & resolution
 -----------------------
 
-| fpg = frames per second
+| fp = frames per second
 | kbps = kilo bytes per second
 | resolution = image resolution in pixels
 

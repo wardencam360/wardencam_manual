@@ -1,6 +1,6 @@
 .. _trial&upgrade:
 
-Trail & Upgrade
+Trial & Upgrade
 ===============
 | WardenCam is **free to try and test**. It come with a trial license valid for a limited number of days. Only after you completed the testing on your devices, you may upgrade to the premium version for a small & once only fee ($5.99 per US customer).
 
