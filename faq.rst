@@ -3,7 +3,7 @@
 FAQ
 ===
 
-What is the minimum Hardware reqirement?
+What is the minimum Hardware requirement?
 ++++++++++++++++++++++++++++++++++++++++
 | Android: 1GHz CPU + 512MB RAM, OS 2.3+
 | iOS: iOS7 and above
