@@ -3,21 +3,26 @@
 FAQ
 ===
 
-What is the minimum Hardware requirement?
+What is the minimum hardware requirement?
 ++++++++++++++++++++++++++++++++++++++++
-| Android: 1GHz CPU + 512MB RAM, OS 2.3+
-| iOS: iOS7 and above
+| iOS: iOS7 and above.  iPhone4 or later
+| Android: 1GHz CPU + 512MB RAM, OS 2.3+. 
+|     Known compatible Androids: Nexus 3+, Galaxy S2+, OnePlus. Most HTC, Motorola moto, Sony, and LG.
 
-How to start monitoring?
+How do I start monitoring?
 ++++++++++++++++++++++++
-| You just need to install the app on two devices. Then sign in with a google account. Select "Cam" to use the device as a camera. Select "View" to receive video and audio live streaming. Motion detection recording and 24/7 recording can be achieved once you link your Dropbox account.
+| Install the app on two devices(Android and/or iOS). 
+| Sign in with the same google account on both devices. 
+| Select "Camera" to use the device as a camera (ie. Place this device around your home). 
+| Select "Viewer" to receive video and audio live streaming (ie. your daily phone). 
+| Motion detection recording and 24/7 recording can be achieved once you link your Dropbox account.
 | Watch the `demo video`_
 .. _demo video: https://www.youtube.com/watch?v=UObAA8vslXU
 
 Failed to sign in?
 ++++++++++++++++++
-| If you failed to sign in with an existing account, make sure the username and p/w are correct and the account is not protected by google 2-step verificaition.
-| If using a public network, make sure "secure port" option is used.
+| If you failed to sign in with an existing account, make sure the username and password are correct and the account is not protected by google 2-step verification.
+| If using a public network, make sure the settings "secure port" option is used.
 | You may also create a new google account dedicated for surveillance use.
 
 How to start recording?
@@ -35,14 +40,14 @@ How to improve image quality / FPS?
 
 How to make WardenCam work with a slow network?
 +++++++++++++++++++++++++++++++++++++++++++++++
-| If the internet speed is low, namely the internet bandwidth is limited, you want to relax the video settings through the followin camera options.
+| If the internet speed is slow, reduce the video settings through the following camera options:
 * Use a lower image resolution
-* Enablw low image quality
+* Enable low image quality
 * Enable save power
 
 Red exclamation mark?
 +++++++++++++++++++++
-| Red exlamation mark means peer to peer connection is not established.
+| Red exclamation mark signifies peer to peer connection is not established.
 | Some network configuration and mobile carrier can disable the peer to peer feature for various reasons.
 | In this case, the communication mode will change to server based.
 | You may experience a drop in video and audio quality and a less reliable connection.
@@ -66,10 +71,10 @@ Why do I need a SD card?
 | Unmount SD card will disable recording.
 | For devices without a SD card, only 15 mins trial is allowed. Trial time will be restored once the SD card is installed.
 
-How to request more trial hours?
+How to request more free-trial hours?
 ++++++++++++++++++++++++++++++++
-| Just email the develper wardencam360@gmail.com and ask for more trial hours to testing.
-| Completely free!
+| Email the developer wardencam360@gmail.com and ask for more trial hours.
+
 
 How to use multiple devices as cameras?
 +++++++++++++++++++++++++++++++++++++++
@@ -99,13 +104,13 @@ I purchase the upgrade on my Android device. How do I enable the upgrade on my o
 
 I purchase the upgrade on my iOS device. How do I enable the upgrade on my other iOS devices?
 ++++++++++++++++++++++++++++++++++++++++++++++++
-| You only need to purchase the upgrade once for your all Apple devices.
+| You only need to purchase the upgrade once for all your Apple devices.
 | The upgrade is linked to your iTunes account. The purchase can be recognized on all your Android devices as long as they have the same apple account in sync.
 | It is preferred to upgrade first on the camera device instead of the viewer device.
 
 Can I transfer my purchase between iOS and Android?
 ++++++++++++++++++++++++++++++++++++++++++++++++
-| WardenCam360 for Android and WardenCam360 for iOS are two separate products and you can not transfer purchases between the two platforms. You'll have to purchase the iOS and Android version of WardenCam360 separately if you plan to use it on both platforms.
+| WardenCam360 for Android and WardenCam360 for iOS are two separate products and cannot transfer purchases between the two platforms. You'll have to purchase the iOS and Android version of WardenCam360 separately if you plan to use it on both platforms.
 | Once you purchase WardenCam360 for iOS you can freely transfer it to any of your iOS devices (iPad, iPhone or iPad) as long as they are connected to the same iTunes account. The same goes for Android - purchasing it once from the Google Play Store gives you the ability to transfer the purchase to all your other Android devices linked to the same Google Play account.
 
 What if I upgrade on the viewer device first?
@@ -116,6 +121,8 @@ What if I upgrade on the viewer device first?
 
 How to run WardenCam on a Windows PC?
 +++++++++++++++++++++++++++++++++++++
+| We are in the process to making a desktop friendly version. For the time being, please see below to view WardenCam on Windows.
+|
 | BlueStacks is an Android simulator which allows you to run WardenCam on your PC.
 * Download and install `BlueStacks`_
 * Download WardenCam installation file `WardenCam.apk`_
