@@ -2,7 +2,7 @@
 
 Camera Settings
 ===============
-| **Changing the camera settings is only effective if the device is being used as the camera.**
+| **Camera settings for Camera Mode Only. Viewer Mode takes the camera settings of that device**
 |
 | |user options|
 
