@@ -19,7 +19,7 @@ How do I start monitoring?
 | Watch the `demo video`_
 .. _demo video: https://www.youtube.com/watch?v=UObAA8vslXU
 
-Failed to sign in?
+Why did my sign in fail?
 ++++++++++++++++++
 | If you failed to sign in with an existing account, make sure the username and password are correct and the account is not protected by google 2-step verification.
 | If using a public network, make sure the settings "secure port" option is used.
@@ -45,7 +45,7 @@ How to make WardenCam work with a slow network?
 * Enable low image quality
 * Enable save power
 
-Red exclamation mark?
+What is the red exclamation mark?
 +++++++++++++++++++++
 | Red exclamation mark signifies peer to peer connection is not established.
 | Some network configuration and mobile carrier can disable the peer to peer feature for various reasons.
@@ -53,7 +53,7 @@ Red exclamation mark?
 | You may experience a drop in video and audio quality and a less reliable connection.
 | At the same time, you need to keep the kbps lower than 50 kbps to maintain connection.
 
-How to reduce kbps?
+How do I reduce the speed kbps?
 +++++++++++++++++++
 | You can reduce kbps (network bandwidth utilization) through the following camera options.
 * Use a lower image resolution
@@ -63,15 +63,15 @@ How to reduce kbps?
 My device is losing power?
 ++++++++++++++++++++++++++
 | A powerful phone can deliver a high fps; but also drain lots of power.
-| If the battery is running out even when the phone is being charged, please check "save power" option in settings.
+| If the battery is running out even when the phone is being charged, please check "save power" option in settings. Be sure to plug your device into the wall for continuous capturing.
 
-Why do I need a SD card?
+Why do I need a SD card or internal memory?
 ++++++++++++++++++++++++
-| Recordings are saved in the SD card before uploaded to Dropbox.
-| Unmount SD card will disable recording.
-| For devices without a SD card, only 15 mins trial is allowed. Trial time will be restored once the SD card is installed.
+| Recordings are saved in the devices memory or SD card before uploading to Dropbox.
+| Unmounting an SD card or limiting internal memory usage will disable recording.
+| For devices without an SD card or available internal memory, only 15 mins trial is allowed. Trial time will be restored once the SD card is installed.
 
-How to request more free-trial hours?
+How can I request more free-trial hours?
 ++++++++++++++++++++++++++++++++
 | Email the developer wardencam360@gmail.com and ask for more trial hours.
 
