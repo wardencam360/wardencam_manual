@@ -9,7 +9,7 @@ any google account on one as “camera” mode and the other as “viewer” mod
 detection recording and 24/7 recording are features available when you link your
 Dropbox account.
 
-Where to Download
+Where can I Download the App?
 +++++++++++++++++
 
 WardenCam works on both Android and iOS devices.
@@ -31,8 +31,8 @@ Otherwise, We will do our best to respond with 1-2 business days.
 Demo Video
 +++++++++++++++++
 | Watch WardenCam `demo video`_
-.. image:: img/intro.png
-   :width: 440pt
+.. image:: img/tutorial.png
+   :width: 100pt
    :align: center
 
 .. _Google Play Store: https://play.google.com/store/apps/details?id=com.warden.cam
