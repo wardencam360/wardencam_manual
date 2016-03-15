@@ -1,5 +1,7 @@
-Welcome to WardenCam!
+WardenCam User Manual
 ======================================
+
+
 
 Contents:
 
