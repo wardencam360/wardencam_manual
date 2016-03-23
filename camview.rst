@@ -3,8 +3,8 @@
 Camera View
 +++++++++++
 
-| After signing in as camera, the camera view is then opened.
-| The camera view mainly shows the current camera preview.
+| After signing in as camera, the camera view is opened.
+| The camera view shows the current camera view. Use this to ensure you are capturing the area you want.
 |
 | |camAndroid|
 |
