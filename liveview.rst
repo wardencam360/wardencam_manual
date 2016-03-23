@@ -3,8 +3,9 @@
 Live View
 =========
 
-| After signing in as viewer, the live view is then opened.
-| The live view shows the **live streaming from the connected camera device, the status of the camera device, a list of available cameras, and a few control buttons**.
+| After signing in as viewer, the live view is opened.
+| The viewer shows the **live streaming from your other Wardencam connected devices that are in "camera" mode,**
+| The Viewer also displays the frame rate and resolution, a list of other wardencam connected devices, and control buttons**.
 |
 | |liveview|
 |
