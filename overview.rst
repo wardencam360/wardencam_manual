@@ -16,11 +16,14 @@ WardenCam works on both Android and iOS devices.
 Here is the link to download from `Google Play Store`_ and `iTunes
 store`_.
 
-**Do not buy an expensive IP camera or home surveillance system**
-Use your spare iphones and android phones and tablets with the WardenCam App to transform
-into an advanced, easy to use, surveillance camera.
-
 WardenCam is **free to try** for 24 hours. If you like the app, please upgrade and buy the premium version for $5.99.
+
+What hardware do i need?
++++++++++++++++++
+**Do not buy an expensive IP camera or home surveillance system**
+Use your spare iPhones, android phones, and tablets. Dont forget to power your device.
+
+
 
 Technical Support
 +++++++++++++++++
