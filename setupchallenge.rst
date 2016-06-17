@@ -44,7 +44,7 @@ Manual Upgrade Procedure
 
 .. |store enable| image:: img/store.png
   :width: 480pt
-- Goto "User Guide" and press "Upgrade Me" button
+- Goto "Welcome Screen" and press "Upgrade" button
 | |user guide|
 
 .. |user guide| image:: img/user_guide.png
