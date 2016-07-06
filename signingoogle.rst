@@ -16,8 +16,8 @@ To sign in WardenCam, you can create a new account for surveillance use or sign 
 Sign in with an existing account
 ++++++++++++++++++++++++++++++++
 
-* Toggle **“Cam”** & **“View”** switch
-* Use **“Cam”** to  sign in the device as a camera
+* Set Device As **“Camera”** or **“Viewer”**
+* Set Device As **“Camera”** or **“Viewer”** 
 * Use **“View”** to sign in the device as a viewer
 * Click **“Sign in via google”** button
 * Select the right account to sign in
