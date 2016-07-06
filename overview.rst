@@ -13,7 +13,7 @@ Where can I Download the App?
 +++++++++++++++++
 
 WardenCam works on both Android and iOS devices.
-Here is the link to download from `Google Play Store`_ and `iTunes
+Here is the link to download from `Google Play Store`_ and `iTune
 store`_.
 
 WardenCam is **free to try** for 24 hours. If you like the app, please upgrade and buy the premium version for $5.99.
