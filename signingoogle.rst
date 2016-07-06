@@ -6,7 +6,7 @@ Sign in Google
 To sign in WardenCam, you can either create a new account dedicated for surveillance use or just sign in with an existing google account on the device.
 
 | |Sign in android1| |Sign in android2|
-.. |Sign in android1| image:: img/signinandroid.png
+.. |Sign in android1| image:: img/wardencam.png
    :width: 270pt
 .. |Sign in android2| image:: img/chooseaccount.png
    :width: 270pt
