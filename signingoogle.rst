@@ -3,7 +3,7 @@
 Signing in
 ==============
 
-We Use Google Sign in Credentials to link your cameras and viewers over the internet. We value your privacy; Google sign in is a trusted, safe, and secure way for you to keep your live streaming camera and recorded camera videos private.
+Google Sign in Credentials are used to link your cameras and viewers over the internet. We value your privacy; Google sign in is a trusted, safe, and secure way for you to keep your live streaming camera and recorded camera videos private.
 
 To sign in WardenCam, you can create a new account for surveillance use or sign in with an existing google account.
 
