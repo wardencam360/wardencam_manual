@@ -1,12 +1,11 @@
 .. _overview:
 
 What is WardenCam?
-+++++++++++++++++
-
-WardenCam App is allows you to use Apple and Android devices as cloud security cameras. 
+++++
+ WardenCam App is allows you to use Apple and Android devices as cloud security cameras. 
 
 Quick Installation Guide
-+++++++++++++++++
+++++
 1. WardenCam works on both Android and iOS devices. Download the App from `Google Play Store`_ and `Apple iTunes Store`_ . WardenCam is **free to try** for 24 hours. If you like the app, please upgrade and buy the premium version.
 
 2. install the app on two devices (*android phones/tablets, iphone/ipad…*). Set one device as “camera” mode and the other device as “viewer” mode.
