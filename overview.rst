@@ -1,35 +1,29 @@
 .. _overview:
 
-Overview
-===============
-
-WardenCam App is quick and simple to use. Install the app on
-two smart devices (*android phones/tablets, iphone/ipad…*). Sign in with
-any google account on one as “camera” mode and the other as “viewer” mode, Motion
-detection recording and 24/7 recording are features available when you link your
-Dropbox account.
-
-Where can I Download the App?
+What is WardenCam?
 +++++++++++++++++
 
-WardenCam works on both Android and iOS devices.
-Here is the link to download from `Google Play Store`_ and `iTune
-store`_.
+WardenCam App is allows you to use Apple and Android devices as cloud security cameras. 
 
-WardenCam is **free to try** for 24 hours. If you like the app, please upgrade and buy the premium version for $5.99.
+Quick Installation Guide
++++++++++++++++++
+1. WardenCam works on both Android and iOS devices.
+Download the App from `Google Play Store`_ and `iTunestore`_.
+WardenCam is **free to try** for 24 hours. If you like the app, please upgrade and buy the premium version.
+
+2. install the app on two devices (*android phones/tablets, iphone/ipad…*). Set one device as “camera” mode and the other device as “viewer” mode.
+
+3. Select which cloud service you would like to use. (ie. Google Drive or Dropbox)
+
+4. Click "sign in with Google" to Start
+
+5. WardenCam has many features such as multiple cameras, Motion detection recording and 24/7 recording. Please explore around the app.
 
 What hardware do i need?
 +++++++++++++++++
 **Do not buy an expensive IP camera or home surveillance system**
-Use your spare iPhones, android phones, and tablets. Dont forget to power your device.
+Use your spare iPhones, android phones, and tablets. Dont forget to power your device. Inexpensive older generations of android and iphones are available on ebay, craigslist, amazon, etc... and they work great!
 
-
-
-Technical Support
-+++++++++++++++++
-Please visit our FAQ. Most of the questions and issues can be answered quickly looking through the FAQ section.
-Otherwise, We will do our best to respond with 1-2 business days.
- email: *support@wardencam360.com*
 
 Demo Video
 +++++++++++++++++
