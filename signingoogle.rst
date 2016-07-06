@@ -1,12 +1,14 @@
 .. _signingoogle:
 
-Sign in Google
+Signing in
 ==============
 
-To sign in WardenCam, you can either create a new account dedicated for surveillance use or just sign in with an existing google account on the device.
+We Use Google Sign in Credentials to link your cameras and viewers over the internet. We value your privacy; Google sign in is a trusted, safe, and secure way for you to keep your live streaming camera and recorded camera videos private.
+
+To sign in WardenCam, you can create a new account for surveillance use or sign in with an existing google account.
 
 | |Sign in android1| |Sign in android2|
-.. |Sign in android1| image:: img/wardencam.png
+.. |Sign in android1| image:: img/wardencam.png 
    :width: 270pt
 .. |Sign in android2| image:: img/chooseaccount.png
    :width: 270pt
