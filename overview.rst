@@ -16,10 +16,12 @@ Quick Installation Guide
 
 5. WardenCam has many features such as multiple cameras, Motion detection recording and 24/7 recording. Please explore around the app.
 
-What hardware do i need?
+Hardware Requirements
 ++++
+Use your spare iPhones, Android phones, and tablets. 
+Dont forget to power your device. 
+Inexpensive older generations of android and iphones are available on ebay, craigslist, amazon, etc... and they work great!
 **Do not buy an expensive IP camera or home surveillance system**
-Use your spare iPhones, android phones, and tablets. Dont forget to power your device. Inexpensive older generations of android and iphones are available on ebay, craigslist, amazon, etc... and they work great!
 
 Trial VS Pro Version?
 ++++
