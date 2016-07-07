@@ -64,6 +64,7 @@ Info |info|
 ----
 .. |info| image:: img/info.png
    :width: 20pt
+Info Button provides links to useful sources such as this User Manual, Video Tutorial, App Store, our online store, and ratings and feedback.
 
 Store |cart|
 ----
