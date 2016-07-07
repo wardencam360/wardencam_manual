@@ -9,7 +9,7 @@ Live View
 |
 | |liveview|
 |
-Motion detection button |shield icon|
+Motion detection button |motiondetecticon|
 -------------------------------------
 
 | The first button is the motion detection button.
@@ -86,7 +86,7 @@ Developer tips
    viewer may expereince a couple seconds of delay. This should not be
    an issue if motion detection recording is enabled.
 
-.. |shield icon| image:: img/shield_icon.png
+.. |motiondetecticon| image:: img/motiondetect.png
    :width: 32pt
 .. |cloud icon| image:: img/cloud.png
    :width: 32pt
