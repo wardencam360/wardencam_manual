@@ -25,9 +25,8 @@ Google Sign in Credentials are used to link your cameras and viewers over the in
 
 To sign in WardenCam, you can create a new account for surveillance use or sign in with an existing google account.
 
-| |Sign in android1| |Sign in android2|
-.. |Sign in android1| image:: img/wardencam.png 
-   :width: 270pt
+|  |Sign in android2|
+
 .. |Sign in android2| image:: img/chooseaccount.png
    :width: 270pt
 
