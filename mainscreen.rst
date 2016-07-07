@@ -21,7 +21,7 @@ Cloud Storage |gdrive| |dropbox|
 
 **Google Drive** Button will save the recordings to your Google Drive > Wardencam folder.
 
-**Dropbox** Button will save the recordings to your Dropbox > Wardecam folder.
+**Dropbox** Button will save the recordings to your Dropbox > Wardencam folder.
 
 Signing In
 ----
