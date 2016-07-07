@@ -30,23 +30,11 @@ To sign in WardenCam, you can create a new account for surveillance use or sign 
 .. |Sign in android2| image:: img/chooseaccount.png
    :width: 270pt
 
-Sign in with an existing account
+Sign in with a new or existing Google account
 ^^^^
-
-* Set Device As **“Camera”** or **“Viewer”**
-* Set Device As **“Camera”** or **“Viewer”** 
-* Use **“View”** to sign in the device as a viewer
-* Click **“Sign in via google”** button
-* Select the right account to sign in
-
-Create a new account
-^^^^
-
-* Click **“Sign in via google”** button
-* Click **“Add another account”**
-* Then you will be prompted to the new google account dialog
-* Follow the prompted dialog to add a new account to the device
-* Repeat the **Sign in with an existing account** procedure If you decide to sign in with a *gmail username and password*, you can enter the credentials to the text box and then click **“Sign in”** button
+* Select **“Sign in with Google”** button
+* The prompt shows your existing Google Accounts associated with your device, with an Add Account option. Select the Google Account you want associated to WardenCam.
+**Please note** Your WardenCam Camera and Viewer devices must be on the same Google Account to view live streaming, and recorded videos
 
 iOS sign in
 ^^^^
