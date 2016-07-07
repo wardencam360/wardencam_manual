@@ -53,18 +53,23 @@ Developer tips
 2. If you are using a public network, *such as “company network, school network, store network”*, you may want to enable **“secure port” in settings**.
 
 User Options  |user_options|
-----
 .. |user_options| image:: img/user_options.png
-   :width: 10pt
-Wardencam is fully customizable to your needs. See :ref:`UserOption` 
+   :width: 20pt
+----
+See :ref:`UserOption` 
 
 
-Info
+Info |info|
+.. |info| image:: img/info.png
+   :width: 20pt
 ----
 
-Store
-----
 
+Store |cart|
+.. |cart| image:: img/cart.png
+   :width: 20pt
+----
+Purchase the App and other accessories at our online store
 
 
 .. |WCmainscreen| image:: img/wardencam.png
