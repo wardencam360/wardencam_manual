@@ -1,7 +1,5 @@
 .. _overview:
 
-
-
 Quick Installation Guide
 ++++
 1. WardenCam works on both Android and iOS devices. Download the App from `Google Play Store`_ and `Apple iTunes Store`_ . 
@@ -20,10 +18,6 @@ Use your spare iPhones, Android phones, and tablets.
 Dont forget to power your device. 
 Inexpensive older generations of android and iphones are available on ebay, craigslist, amazon, etc... and they work great!
 **Do not buy an expensive IP camera or home surveillance system**
-
-Trial VS Pro Version?
-++++
-WardenCam is **free to try** for 24 hours. If you like the app, please upgrade and buy the premium version.
 
 Demo Video
 ++++
