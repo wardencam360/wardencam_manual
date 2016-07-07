@@ -20,18 +20,14 @@ Rename button |rename icon|
 
 | The second button is to **rename the camera device**.
 | The camera default name is the **device model name**.
-| You can name the camera **anything you like**, *such as “living room”,
-  “front door”, “my store”…*
-| After a new name is given, **simply restart the camera to take
-  effect**.
+| Rename the camera to a useful name such as “living room”, “front door”, “backyard", etc...
+| After a new name is given, **restart** the camera mode to take effect.
 
 Save energy button |energy icon|
 --------------------------------
 
-| The camera view is slightly different on the iOS device.
-| The rename button is replaced by the **save power button**.
-| After the camera is started, **please press the save power button to
-  turn off the display**.
+| For iOS devices, The camera view has a **save power button** instead of the rename button.
+| After the camera mode starts, **please press the save power button to turn off the display**.
 | To **exit camera view**, press the cross on the top right corner.
 |
 | |camIOS|
@@ -55,4 +51,4 @@ Developer tips
 .. |camAndroid| image:: img/camAndroid.png
    :width: 400pt
 .. |camIOS| image:: img/camIOS.png
-   :width: 600pt
+   :width: 400pt
