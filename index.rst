@@ -8,9 +8,10 @@ Contents:
 .. toctree::
     :maxdepth: 2
 
+    purpose
     start
     navigation
     customization
     trial&upgrade
-    challenge
+    helpUsOut
     faq
