@@ -8,4 +8,4 @@ Main Screen
 
 
 .. |WCmainscreen| image:: img/wardencam.png
-   :width: 400pt
+   :width: 250pt
