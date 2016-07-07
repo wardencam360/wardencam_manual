@@ -59,7 +59,7 @@ Developer tips
 
 User Options  |user_options|
 ----
-.. |user_options| image:: img/user_options.png
+.. |user_options| image:: img/useroption_icon.png
    :width: 20pt
 See :ref:`UserOption` 
 
