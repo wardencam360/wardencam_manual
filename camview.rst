@@ -32,7 +32,8 @@ Save energy button |energy icon|
 |
 | |camIOS|
 |
-Developer tips
+
+Tips
 --------------
 
 1. On android device, once the camera view is started, just press the
