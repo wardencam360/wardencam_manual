@@ -2,7 +2,6 @@ WardenCam User Manual
 ======================================
 
 
-
 Contents:
 
 .. toctree::
