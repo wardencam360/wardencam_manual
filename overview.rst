@@ -1,5 +1,4 @@
 .. _overview:
-
 Quick Installation Guide
 ++++
 1. WardenCam works on both Android and iOS devices. Download the App from `Google Play Store`_ and `Apple iTunes Store`_ . 
