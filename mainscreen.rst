@@ -55,7 +55,7 @@ Developer tips
 User Options  |user_options|
 ----
 .. |user_options| image:: img/user_options.png
-   :width: 20pt
+   :width: 10pt
 Wardencam is fully customizable to your needs. See :ref:`UserOption` 
 
 
