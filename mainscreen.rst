@@ -34,7 +34,7 @@ To sign in WardenCam, you can create a new account for surveillance use or sign 
    :width: 270pt
 
 Sign in with an existing account
-++++++++++++++++++++++++++++++++
+^^^^
 
 * Set Device As **“Camera”** or **“Viewer”**
 * Set Device As **“Camera”** or **“Viewer”** 
@@ -43,7 +43,7 @@ Sign in with an existing account
 * Select the right account to sign in
 
 Create a new account
-++++++++++++++++++++
+^^^^
 
 * Click **“Sign in via google”** button
 * Click **“Add another account”**
@@ -52,7 +52,7 @@ Create a new account
 * Repeat the **Sign in with an existing account** procedure If you decide to sign in with a *gmail username and password*, you can enter the credentials to the text box and then click **“Sign in”** button
 
 iOS sign in
-+++++++++++
+^^^^
 | Sign in the iOS app is almost the same as the Android app.
 | The difference is that when you **sign in via a google account**, you always need to authorize the account via **google authentication webpage** as least once.
 
@@ -63,7 +63,7 @@ iOS sign in
    :width: 270pt
 
 Developer tips
-++++++++++++++
+^^^^
 1. To avoid entering the account and password all the time, You may check “save me” to remember the account sign in.
 2. If you are using a public network, *such as “company network, school network, store network”*, you may want to enable **“secure port” in settings**.
 
