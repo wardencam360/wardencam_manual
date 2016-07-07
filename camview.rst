@@ -53,6 +53,6 @@ Developer tips
 .. |energy icon| image:: img/energy.png
    :width: 32pt
 .. |camAndroid| image:: img/camAndroid.png
-   :width: 200pt
+   :width: 400pt
 .. |camIOS| image:: img/camIOS.png
    :width: 600pt
