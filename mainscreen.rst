@@ -15,7 +15,7 @@ Cloud Storage |gdrive| |dropbox|
 -----
 .. |gdrive| image:: img/googledrive.png
    :width: 30pt
-   .. |dropbox| image:: img/dropbox.png
+.. |dropbox| image:: img/dropbox.png
    :width: 30pt
 `Google Drive <http://drive.google.com/>`_ and `Dropbox <http://www.dropbox.com/>`_ are free cloud storage providers up to a few GBs. This is more than enough to store months of motion detected recordings in the cloud. We respect your privacy, no videos are stored on wardencam servers, and wardencam only has access to the wardencam folder within your cloud drive. To View your cloud recordings, sign in as Viewer and select "View Recordings"( See :ref:`cloudview` screen). 
 
