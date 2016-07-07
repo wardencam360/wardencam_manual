@@ -8,7 +8,7 @@ Camera View
 |
 | |camAndroid|
 |
-Motion detection button |shield icon|
+Motion detection button |motiondetect|
 -------------------------------------
 
 | The first button (*shield button*) is the **motion detection button**.
@@ -46,7 +46,7 @@ Developer tips
    display. **Don’t press the power or home button on iOS devices**,
    otherwise the camera hardware will be forced to close.
 
-.. |shield icon| image:: img/shield_icon.png
+.. |motiondetect| image:: img/motiondetect.png
    :width: 32pt
 .. |rename icon| image:: img/name.png
    :width: 32pt
