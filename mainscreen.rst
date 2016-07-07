@@ -64,6 +64,8 @@ Info |info|
 ----
 .. |info| image:: img/info.png
    :width: 20pt
+   
+The Information Section provides links to this User Manual, Video Tutorial, App store, online store and Rating and reviews.   
 
 Store |cart|
 ----
