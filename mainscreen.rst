@@ -52,8 +52,12 @@ Developer tips
 1. To avoid entering the account and password all the time, You may check “save me” to remember the account sign in.
 2. If you are using a public network, *such as “company network, school network, store network”*, you may want to enable **“secure port” in settings**.
 
-Settings
+User Options  |user_options|
 ----
+.. |user_options| image:: img/user_options.png
+   :width: 20pt
+Wardencam is fully customizable to your needs. See :ref:`UserOption` 
+
 
 Info
 ----
