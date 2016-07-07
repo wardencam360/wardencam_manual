@@ -64,14 +64,13 @@ Info |info|
 ----
 .. |info| image:: img/info.png
    :width: 20pt
-   
-The Information Section provides links to this User Manual, Video Tutorial, App store, online store and Rating and reviews.   
 
 Store |cart|
 ----
 .. |cart| image:: img/cart.png
    :width: 20pt
-Purchase the App and other accessories at our online store
+Purchase the App and other accessories at our online `store`_.
+.. _store: https://wardencam360.ecwid.com/
 
 
 
