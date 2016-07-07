@@ -3,7 +3,8 @@
 Main Screen
 +++++++++++
 | |WCmainscreen|
-
+.. |WCmainscreen| image:: img/wardencam.png
+   :width: 240pt
 Set Device As Modes
 ----
 | **Camera** Mode Button will set the device as a Camera. When signing in, the device will enter the :ref:`camview`. You can have multiple devices set as camera mode. Place these devices around your home or office for monitoring.
@@ -28,7 +29,7 @@ To sign in WardenCam, you can create a new account for surveillance use or sign 
 |  |Sign in android2|
 
 .. |Sign in android2| image:: img/chooseaccount.png
-   :width: 270pt
+   :width: 240pt
 
 Sign in with a new or existing Google account
 ^^^^^^^
@@ -43,9 +44,9 @@ iOS sign in
 
 | |Sign in ios1| |Sign in ios2| 
 .. |Sign in ios1| image:: img/signinios.png
-   :width: 270pt
+   :width: 240pt
 .. |Sign in ios2| image:: img/iosauth.png
-   :width: 270pt
+   :width: 240pt
 
 Developer tips
 ^^^^
@@ -72,5 +73,4 @@ Store |cart|
 Purchase the App and other accessories at our online store
 
 
-.. |WCmainscreen| image:: img/wardencam.png
-   :width: 250pt
+
