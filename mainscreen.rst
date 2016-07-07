@@ -2,6 +2,10 @@
 
 Main Screen
 +++++++++++
+| |WCmainscreen|
+| **Camera** Mode Button will set the device as a Camera. When signing in, the device will enter the :ref:`camview`.
+| **Viewer** Mode Button will set the device as a Viewer. When signing in, the device will enter the :ref:`liveview`.
 
 
-1. Camera Mode Button will set the device as a Camera. When signing in, the device will enter the :ref:`camview`.
+.. |WCmainscreen| image:: img/wardencam.png
+   :width: 400pt
