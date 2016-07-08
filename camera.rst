@@ -23,6 +23,10 @@ Image Quality
 | Choose low or high image quality
 | High image quality settings will lead to a higher internet bandwidth usage.
 
+Motion Detection Sensitivity
+-------------
+| Choose high, Default, low sensitivity to trigger a motion event and record video.
+
 Disable Audio
 -------------
 | You can disable audio to get a better video quality, such as a higher fps.
@@ -51,3 +55,8 @@ Night Vision
 | Default option is "automatic" which means WardenCam will decide when to use night vision according to the ambient light condition.
 | You can also use "Always On" & "Always Off"
 
+Auto-restart
+------------
+| Automaticly start WardenCam when a device finishes rebooting.
+| WardenCam will sign in with the saved account information.
+| You may want to enable this option on the camera device to improve reliability.
