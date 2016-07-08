@@ -6,7 +6,7 @@ User Options
 | |user options|
 |
 .. |user options| image:: img/user_options.png
-  :width: 480pt
+  :width: 300pt
 
 FAQ
 ------------------
