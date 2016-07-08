@@ -47,4 +47,4 @@ Tips
 | Example Website view of a google drive with wardencam videos
 | |googledrive folder|
 .. |googledrive folder| image:: img/googledrive_site.png
-  :width: 640pt
+  :width: 400pt
