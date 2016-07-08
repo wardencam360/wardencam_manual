@@ -1,13 +1,13 @@
 .. _dropbox:
 
-Dropbox Settings
+Cloud Settings
 ================
-| **Changing the dropbox settings is only effective if the device is being used as the camera.**
+| **Changing the dropbox or google drive settings is only effective if the device is being used as the camera.**
 |
 | |user options|
 
 .. |user options| image:: img/dropbox_settings.png
-  :width: 480pt
+  :width: 300pt
 
 Dropbox Folder Size
 -------------------
