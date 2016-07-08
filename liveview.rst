@@ -103,8 +103,8 @@ fps, kbps, & resolution
 | kbps = kilo bytes per second
 | resolution = image resolution in pixels
 
-Developer tips
---------------
+Tips
+^^^^^^
 1. Live video are normally streamed via peer to peer connection. No
    third party is involved to handle the video stream.
 2. Pay extra attention to the P2P connection icon. P2P failure is
