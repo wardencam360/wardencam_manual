@@ -9,7 +9,7 @@ Cloud Settings
 .. |user options| image:: img/dropbox_settings.png
   :width: 300pt
 
-Dropbox Folder Size
+Folder Size
 -------------------
 | Sets the maximum reserved size for 24/7 video recordings.
 | The default size is 500MB. Maximum size can be 20GB.
@@ -24,5 +24,5 @@ Max Saved Motion Events
 24/7 Recording
 --------------
 | Enable 24/7 recording to start video log.
-| Camera will continuously record and upload video clips to your Dropbox space.
+| Camera will continuously record and upload video clips to your cloud space.
 | Enable 24/7 recording will consume lots of internet bandwidth.
