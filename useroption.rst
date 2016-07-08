@@ -34,6 +34,6 @@ Show App Introduction
 
 
 Tips
---------------
+^^^^^
 1. During the sign in step, if you repeatedly get "time out" error, it will be a good idea to enable "secure port" in settings.
 2. If you enable "Auto-restart", please expect for a few minutes delay between the device reboot and camera getting ready to connect.
