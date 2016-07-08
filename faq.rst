@@ -15,7 +15,7 @@ How do I start monitoring?
 | Sign in with the same google account on both devices. 
 | Select "Camera" to use the device as a camera (ie. Place this device around your home). 
 | Select "Viewer" to receive video and audio live streaming (ie. your daily phone). 
-| Motion detection recording and 24/7 recording can be achieved once you link your Dropbox account.
+| Motion detection recording and 24/7 recording can be achieved once you link your Dropbox or Google Drive account.
 | Watch the `demo video`_
 .. _demo video: https://www.youtube.com/watch?v=UObAA8vslXU
 
@@ -27,8 +27,8 @@ Why did my sign in fail?
 
 How to start recording?
 +++++++++++++++++++++++
-| Enable 24/7 recording in settings. Click Dropbox icon. Authorize WardenCam to create a folder "apps\wardencam".
-| Link the same Dropbox account on both the camera and the viewer.
+| Enable 24/7 recording in settings. Click Dropbox or Google Drive icon on the main screen. Authorize WardenCam to create a folder "apps\wardencam".
+| Link the same cloud account on both the camera and the viewer.
 | All 24/7 video log and motion event recordings will be uploaded to this folder.
 
 How to improve image quality / FPS?
@@ -67,7 +67,7 @@ My device is losing power?
 
 Why do I need a SD card or internal memory?
 ++++++++++++++++++++++++
-| Recordings are saved in the devices memory or SD card before uploading to Dropbox.
+| Recordings are saved in the devices memory or SD card before uploading to the cloud.
 | Unmounting an SD card or limiting internal memory usage will disable recording.
 | For devices without an SD card or available internal memory, only 15 mins trial is allowed. Trial time will be restored once the SD card is installed.
 
