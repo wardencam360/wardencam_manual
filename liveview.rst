@@ -62,7 +62,7 @@ Reverse Cam button |reversecam icon|
 Motion detection flag button |motion flag|
 ------------------------------------------
 .. |motion flag| image:: img/motionflag.png
-   :width: 30pt
+   :width: 20pt
 | This button shows the number of detected motion events.
 | If a Dropbox or Google Drive account is linked, the motion flag button opens the cloud
   view and shows all the motion detection recordings.
