@@ -52,7 +52,7 @@ iOS sign in
 .. |Sign in ios2| image:: img/iosauth.png
    :width: 240pt
 
-Developer tips
+Tips
 ^^^^
 1. To avoid entering the account and password all the time, You may check “save me” to remember the account sign in.
 2. If you are using a public network, *such as “company network, school network, store network”*, you may want to enable **“secure port” in User Options**.
