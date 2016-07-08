@@ -9,7 +9,7 @@ Live View
 |
 | |liveview|
 .. |liveview| image:: img/liveView.png
-   :width: 640pt
+   :width: 400pt
 |
 
 Motion detection button |motiondetecticon|
