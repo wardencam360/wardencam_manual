@@ -45,14 +45,14 @@ Video Log |videologicon|
   logs are enabled by “24/7 recording” in settings. Once enabled, the
   camera will continue logging nonstop.
   
-  Talk button |talk icon|
+Talk button |talk icon|
 --------------------------------------
 .. |talk icon| image:: img/talk.png
    :width: 30pt
 | Hold the audio button and talk.
 | Release the button to send the voice to the camera device.
 
-  Reverse Cam button |reversecam icon|
+Reverse Cam button |reversecam icon|
 --------------------------------------
 .. |reversecam icon| image:: img/reversecam_icon.png
    :width: 30pt
