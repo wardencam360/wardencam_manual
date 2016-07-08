@@ -36,15 +36,16 @@ Tips
 1. The video logs are saved in “*\apps\wardencam\log*" folder in your dropbox or google drive.
 2. Motion recordings are saved in “*\apps\wardencam\event*" folder in your dropbox or google drive.
 3. The cameras and viewer **should be linked to the same Dropbox or google drive account!** 
-
+|
+|
 Example Website view of a dropbox with wardencam videos
-^^^^^^^^
+
 | |dropbox folder|
 .. |dropbox folder| image:: img/dropboxFolders.png
   :width: 640pt
-
+|
+|
 Example Website view of a google drive with wardencam videos
-^^^^^^^
 | |googledrive folder|
 .. |googledrive folder| image:: img/googledrive_site.png
   :width: 640pt
