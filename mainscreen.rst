@@ -46,8 +46,8 @@ iOS sign in
 | Sign in the iOS app is almost the same as the Android app.
 | The difference is that when you **sign in via a google account**, you always need to authorize the account via **google authentication webpage** as least once.
 
-| |WCmainscreen| |Sign in ios2| 
-.. |WCmainscreen| image:: img/wardencam.png
+| |ios_mainscreen| |Sign in ios2| 
+.. |ios_mainscreen| image:: img/ios_mainscreen.png
    :width: 240pt
 .. |Sign in ios2| image:: img/iosauth.png
    :width: 240pt
