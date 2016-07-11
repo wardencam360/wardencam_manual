@@ -73,7 +73,7 @@ Why do I need a SD card or internal memory?
 
 How can I request more free-trial hours?
 ++++++++++++++++++++++++++++++++
-| Email the developer 'support'_ and ask for more trial hours.
+| Email the developer support@wardencam360.com and ask for more trial hours.
 
 
 How to use multiple devices as cameras?
@@ -131,4 +131,3 @@ More questions?
 .. |bluestacks install| image:: img/bluestacks_install.png
 .. |app player| image:: img/app_player.png
 .. |app wardencam| image:: img/wardencam.png
-.. _support: support@wardencam360.com
