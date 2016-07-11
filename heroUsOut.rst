@@ -15,6 +15,7 @@ Be a translation hero!
 - Italian
 |
 | Free app upgrades as token of appeciation for those who help.
+|
 | Email support@wardncam360.com with the subject "Translation hero"
 
 .. |translation hero| image:: img/hero.png
