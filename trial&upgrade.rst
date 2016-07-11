@@ -21,3 +21,21 @@ Upgrade
 - If in app purchase is not available, you can email wardencam360@gmail.com for alternative purchasing method.
 - Once purchased the upgrade is linked to your google play / apple account. You can enable all devices.
 - Viewer function is always free and not limited by a timer. If you like to provide the viewing capability to your families/friends, you can do so for free.
+
+Manual Upgrade Procedure
+------------------------
+- Enable the alternative method in "WardenCam Pro Store" (see the red "ENABLED" button. Press the button once if it is grey).
+| |store enable|
+
+.. |store enable| image:: img/store.png
+  :width: 480pt
+- Goto "Welcome Screen" and press "Upgrade" button
+| |user guide|
+
+.. |user guide| image:: img/user_guide.png
+  :width: 240pt
+- Send purchase request via email. We will then reply you with the activation code.
+| |upgrade request|
+
+.. |upgrade request| image:: img/upgrade_request.png
+  :width: 240pt
