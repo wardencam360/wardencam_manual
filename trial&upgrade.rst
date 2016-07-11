@@ -24,7 +24,7 @@ Upgrade
 
 Manual Upgrade Procedure
 ------------------------
-- Enable the alternative method in "WardenCam Pro Store" (see the red "ENABLED" button. Press the button once if it is grey).
+- Enable the alternative method in "WardenCam Pro Store" option in our app. (see the red "ENABLED" button. Press the button once if it is grey).
 | |store enable|
 
 .. |store enable| image:: img/store.png
