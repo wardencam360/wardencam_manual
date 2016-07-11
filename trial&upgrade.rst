@@ -9,7 +9,7 @@ Trial
 - Start the testing with your home WiFi network.
 - Then make sure the viewer can connect externally with another WiFi or your mobile data network.
 - Test the Dropbox integration and video replay.
-- If you need more time to complete your test, please feel free to email wardencam360@gmail.com and ask for more trial time.
+- If you need more time to complete your test, please feel free to email support@wardencam360.com and ask for more trial time.
 
 Upgrade
 -------
