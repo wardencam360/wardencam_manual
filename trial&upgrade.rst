@@ -18,7 +18,7 @@ Upgrade
 .. |iap| image:: img/iap.png
   :width: 425pt
 - If google play store / apple app store is available in your country, it is the easiest way to upgrade through in app purchase.
-- If in app purchase is not available, you can email wardencam360@gmail.com for alternative purchasing method.
+- If in app purchase is not available, you can email support@wardencam360.com for alternative purchasing method.
 - Once purchased the upgrade is linked to your google play / apple account. You can enable all devices.
 - Viewer function is always free and not limited by a timer. If you like to provide the viewing capability to your families/friends, you can do so for free.
 
