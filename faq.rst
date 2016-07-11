@@ -126,8 +126,6 @@ How to run WardenCam on a Windows PC?
 More questions?
 +++++++++++++++
 | Email the developer support@wardencam360.com.
-.. _BlueStacks: http://www.bluestacks.com/download.html
-.. _WardenCam.apk: http://bit.ly/1yERYLH
 .. |bluestacks install| image:: img/bluestacks_install.png
 .. |app player| image:: img/app_player.png
 .. |app wardencam| image:: img/wardencam.png
