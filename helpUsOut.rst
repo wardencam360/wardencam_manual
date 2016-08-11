@@ -16,7 +16,10 @@ Be a translation hero!
 |
 | Free app upgrades as token of appeciation for those who help.
 |
-| Email support@wardncam360.com with the subject "Translation hero"
+| Check out our current needs:
+| https://docs.google.com/spreadsheets/d/1Aa1bpT6ETIKkltxiukTeeLZtmTHDvE85tDhqsgn-gck/edit?usp=sharing
+| 
+| Then email support@wardncam360.com with the subject "Translation hero" and your translation! We thank you for your help!
 |
 | |translation hero|
 .. |translation hero| image:: img/hero.png
