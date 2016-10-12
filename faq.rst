@@ -16,8 +16,8 @@ How do I start monitoring?
 | Select "Camera" to use the device as a camera (ie. Place this device around your home). 
 | Select "Viewer" to receive video and audio live streaming (ie. your daily phone). 
 | Motion detection recording and 24/7 recording can be achieved once you link your Dropbox or Google Drive account.
-| Watch the `demo video`_
-.. _demo video: https://www.youtube.com/watch?v=UObAA8vslXU
+| You can also watch our `demo video`_
+.. _demo video: https://www.youtube.com/watch?v=nAHzzx8oges
 
 Why did my sign in fail?
 ++++++++++++++++++
