@@ -71,11 +71,6 @@ Why do I need a SD card or internal memory?
 | Unmounting an SD card or limiting internal memory usage will disable recording.
 | For devices without an SD card or available internal memory, only 15 mins trial is allowed. Trial time will be restored once the SD card is installed.
 
-How can I request more free-trial hours?
-++++++++++++++++++++++++++++++++
-| Email the developer support@wardencam360.com and ask for more trial hours.
-
-
 How to use multiple devices as cameras?
 +++++++++++++++++++++++++++++++++++++++
 | Sign in with the same google account on multiple devices as cameras.
@@ -121,7 +116,11 @@ What if I upgrade on the viewer device first?
 
 How to run WardenCam on a Windows PC?
 +++++++++++++++++++++++++++++++++++++
-| We are in the process to making a desktop friendly version. 
+| We are currently not offering any windows version but will consider it in the future. 
+
+How can I request more free-trial hours?
+++++++++++++++++++++++++++++++++
+| Email the developer support@wardencam360.com and ask for more trial hours.
 
 More questions?
 +++++++++++++++
