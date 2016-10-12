@@ -91,13 +91,13 @@ On iOS:
 | Only the camera device requires the upgrade to run for 24/7. Make sure you upgrade on the camera device first.
 | The upgrade is tied to your google play / apple account.
 
-I purchase the upgrade on my Android device. How do I enable the upgrade on my other Android devices?
+How do I upgrade my other Android devices for free after my purchase?
 ++++++++++++++++++++++++++++++++++++++++++++++++
 | You only need to purchase the upgrade once for your all Android devices.
 | The upgrade is linked to your google play account. The purchase can be recognized on all your Android devices as long as they have the same google play account in sync.
 | It is preferred to upgrade first on the camera device instead of the viewer device.
 
-I purchase the upgrade on my iOS device. How do I enable the upgrade on my other iOS devices?
+How do I upgrade my other iOS devices for free after my purchase?
 ++++++++++++++++++++++++++++++++++++++++++++++++
 | You only need to purchase the upgrade once for all your Apple devices.
 | The upgrade is linked to your iTunes account. The purchase can be recognized on all your Android devices as long as they have the same apple account in sync.
