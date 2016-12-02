@@ -38,4 +38,4 @@ Manual Upgrade Procedure
 | |upgrade request|
 
 .. |upgrade request| image:: img/upgrade_request.png
-  :width: 120pt
+  :width: 240pt
