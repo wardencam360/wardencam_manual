@@ -33,7 +33,7 @@ Manual Upgrade Procedure
 | |user guide|
 
 .. |user guide| image:: img/user_guide.png
-  :width: 10pt
+  :width: 240pt
 - Send purchase request via email. We will then reply you with the activation code.
 | |upgrade request|
 
