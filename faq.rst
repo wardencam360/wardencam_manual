@@ -3,7 +3,7 @@
 FAQ
 ===
 
-What is the minimum hardware requirement?
+What is the minimum hardware requirements?
 ++++++++++++++++++++++++++++++++++++++++
 | iOS: iOS7 and above.  iPhone4 or later
 | Android: 1GHz CPU + 512MB RAM, OS 2.3+. 
@@ -19,19 +19,19 @@ How do I start monitoring?
 | You can also watch our `demo video`_
 .. _demo video: https://www.youtube.com/watch?v=nAHzzx8oges
 
-Why did my sign in fail?
+Why did my Google sign-in fail?
 ++++++++++++++++++
-| If you failed to sign in with an existing account, make sure the username and password are correct and the account is not protected by google 2-step verification.
+| If you failed to sign-in with an existing Google account, make sure the username and password are correct and the account is not protected by Google 2-step verification.
 | If using a public network, make sure the settings "secure port" option is used.
-| You may also create a new google account dedicated for surveillance use.
+| You may also create a new Google account dedicated for surveillance use.
 
 How to start recording?
 +++++++++++++++++++++++
-| Enable 24/7 recording in settings. Click Dropbox or Google Drive icon on the main screen. Authorize WardenCam to create a folder "apps\wardencam".
+| Enable 24/7 recording in settings. Click the Dropbox or Google Drive icon on the main screen.  Authorize WardenCam to create a folder "apps\wardencam".
 | Link the same cloud account on both the camera and the viewer.
 | All 24/7 video log and motion event recordings will be uploaded to this folder.
 
-How to improve image quality / FPS?
+How can I improve image quality / FPS (Frames Per Second)?
 +++++++++++++++++++++++++++++++++++
 | There are a few options in camera settings to improve image quality and frame rate.
 * Use a higher image resolution
@@ -45,13 +45,13 @@ How to make WardenCam work with a slow network?
 * Enable low image quality
 * Enable save power
 
-What is the red exclamation mark?
+What is the red exclamation mark (!)?
 +++++++++++++++++++++
-| Red exclamation mark signifies peer to peer connection is not established.
-| Some network configuration and mobile carrier can disable the peer to peer feature for various reasons.
-| In this case, the communication mode will change to server based.
+| A red exclamation mark (!) signifies the peer-to-peer connection is not established.
+| Some network configurations and mobile carriers can disable the peer-to-peer feature for various reasons.
+| In this case, the communication mode will change to server-based.
 | You may experience a drop in video and audio quality and a less reliable connection.
-| At the same time, you need to keep the kbps lower than 50 kbps to maintain connection.
+| At the same time, you need to keep the kbps rate lower than 50 kbps to maintain connection.
 
 How do I reduce the speed kbps?
 +++++++++++++++++++
@@ -62,46 +62,46 @@ How do I reduce the speed kbps?
 
 My device is losing power?
 ++++++++++++++++++++++++++
-| A powerful phone can deliver a high fps; but also drain lots of power.
-| If the battery is running out even when the phone is being charged, please check "save power" option in settings. Be sure to plug your device into the wall for continuous capturing.
+| A faster CPU on a newer phone can deliver a higher fps, but a higher fps also drains lots of power.
+| If the battery is running out even when the phone is actively being charged, please check the "save power" option in settings. Be sure to plug your device into the wall outlet for continuous capturing.
 
 Why do I need a SD card or internal memory?
 ++++++++++++++++++++++++
-| Recordings are saved in the devices memory or SD card before uploading to the cloud.
+| Recordings are saved in the device's memory or SD card before uploading to the cloud.
 | Unmounting an SD card or limiting internal memory usage will disable recording.
 | For devices without an SD card or available internal memory, only 15 mins trial is allowed. Trial time will be restored once the SD card is installed.
 
-How to use multiple devices as cameras?
+How can I use multiple devices as cameras?
 +++++++++++++++++++++++++++++++++++++++
-| Sign in with the same google account on multiple devices as cameras.
-| On the viewer, you will see a list of available camera from the vistapoints drop down list.
+| Sign-in with the same Google account on multiple devices as cameras.
+| On the viewer, you will see a list of available cameras from the Vistapoints drop-down list.
 
 How to purchase the upgrade?
 ++++++++++++++++++++++++++++
 On Android:
 ----------
-| Click the info button (2nd button on the sign in screen)
+| Click the info button (2nd button on the sign-in screen)
 | Scroll down. You will see the "upgrade me" button
 On iOS:
 ------
-| Click the shuttle button (3rd button on the sign in screen)
+| Click the shuttle button (3rd button on the sign-in screen)
 | You will then see the in app purchase dialog
 |
-| You can purchase through google play store and iOS store. Email support if the purchase is not available.
-| Only the camera device requires the upgrade to run for 24/7. Make sure you upgrade on the camera device first.
-| The upgrade is tied to your google play / apple account.
+| You can purchase through Google Play Store and iOS Store.  Email our support team if the purchase is not available.
+| Only the camera device requires the upgrade to run for 24/7.  Please make sure you UPGRADE ON THE CAMERA DEVICE FIRST.
+| The upgrade is tied to your Google Play / Apple account.
 
 How do I upgrade my other Android devices for free after my purchase?
 ++++++++++++++++++++++++++++++++++++++++++++++++
 | You only need to purchase the upgrade once for your all Android devices.
-| The upgrade is linked to your google play account. The purchase can be recognized on all your Android devices as long as they have the same google play account in sync.
-| It is preferred to upgrade first on the camera device instead of the viewer device.
+| The upgrade is linked to your Google Play account. The purchase can be recognized on all your Android devices as long as they have the same Google Play account in sync.
+| It is preferred that you UPGRADE ON THE CAMERA DEVICE FIRST, instead of the viewer device.
 
 How do I upgrade my other iOS devices for free after my purchase?
 ++++++++++++++++++++++++++++++++++++++++++++++++
-| You only need to purchase the upgrade once for all your Apple devices.
-| The upgrade is linked to your iTunes account. The purchase can be recognized on all your Android devices as long as they have the same apple account in sync.
-| It is preferred to upgrade first on the camera device instead of the viewer device.
+| You only need to purchase the upgrade once for all of your Apple devices.
+| The upgrade is linked to your iTunes account. The purchase can be recognized on all your Apple devices as long as they have the same Apple account in sync.
+| It is preferred that you UPGRADE ON THE CAMERA DEVICE FIRST, instead of the viewer device.
 
 Can I transfer my purchase between iOS and Android?
 ++++++++++++++++++++++++++++++++++++++++++++++++
@@ -110,17 +110,17 @@ Can I transfer my purchase between iOS and Android?
 
 What if I upgrade on the viewer device first?
 +++++++++++++++++++++++++++++++++++++++++++++
-| If you upgrade on the viewer device, you just need to manually enable the upgrade on the camera device once.
+| If you upgrade on the viewer device first, you just need to manually enable the upgrade on the camera device once.
 | Before you manually upgrade the camera device, it is still running as the trial.
 | The manual enable procedure is simply to sign in once on the camera device as a camera or a viewer.
 
 How to run WardenCam on a Windows PC?
 +++++++++++++++++++++++++++++++++++++
-| We are currently not offering any windows version but will consider it in the future. 
+| We currently do not offer a Windows version, but will consider it in the future. 
 
 How can I request more free-trial hours?
 ++++++++++++++++++++++++++++++++
-| Email the developer support@wardencam360.com and ask for more trial hours.
+| Email the developer at support@wardencam360.com and request more trial hours.
 
 More questions?
 +++++++++++++++
