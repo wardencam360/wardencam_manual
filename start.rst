@@ -1,35 +1,48 @@
 .. _start:
 
 Getting Started
-==========
+===========================
+
+| WardenCam app allows you to use spare phones or tablets as cloud security cameras for your home and office. It is the most cost effective, and secure method to have an video surveillance system.
+| With WardenCam, everyone all around the world can have a cloud based monitoring and video recording system.
+| Hope you enjoy!
+|
+| -WardenCam Team
 
 Quick Installation Guide
-++++
-1. WardenCam works on both Android and iOS devices. Download the App from `Google Play Store`_ and `Apple iTunes Store`_ . 
+-----------------------------
+1. WardenCam works on both Android and iOS devices. Download the App from `Google Play Store`_ and `Apple App Store`_. 
 
-2. install the app on two devices (*android phones/tablets, iphone/ipad…*). Set one device as “camera” mode and the other device as “viewer” mode.
+2. Install the app on 2+ devices (*android phones/tablets, iphone/ipad…*). Set 1+ device(s) as “camera” mode and one other device as “viewer” mode.
 
-3. Select which cloud service you would like to use. (ie. Google Drive or Dropbox)
+3. Sign in the app with the same Google account on both devices.
 
-4. Click "sign in with Google" to Start
+4. Select which cloud storage service you would like to use. (ie. Google Drive or Dropbox)
 
-5. WardenCam has many features such as multiple cameras, Motion detection recording and 24/7 recording. Please explore around the app.
+5. WardenCam has many features such as multiple cameras, motion detection recording and 24/7 recording. Please explore around the app.
 
 Hardware Requirements
-++++
-Use your spare iPhones, Android phones, and tablets. 
-Dont forget to power your device. 
-Inexpensive older generations of android and iphones are available on ebay, craigslist, amazon, etc... and they work great!
-**Do not buy an expensive IP camera or home surveillance system**
+------------------------
+| **Do not buy any expensive web camera or home surveillance system.**
+| Use your spare iPhones, Android phones, and tablets.
+| iOS: iOS8 and above.  iPhone4S or later
+| Android: 1GHz CPU + 512MB RAM, OS 2.3+. 
+
+Technical Support
++++++++++++++++++
+| Please visit :ref:`helpfaq`. Most of the questions and issues can be answered quickly looking through the FAQ section.
+| In addition, issues can be resolved through `Online Forum`_.
+| Email support *support@wardencam360.com* avaialble from 10 am to 10 pm PST daily
 
 Demo Video
-++++
++++++++++++++++++
 | Watch WardenCam `demo video`_ to an example setup, installation, and use cases.
-.. raw:: html
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-        <iframe src="//www.youtube.com/watch?v=nAHzzx8oges" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
-    </div>
-	
+.. image:: img/tutorial.png
+   :width: 150pt
+   :align: center
+   :target: https://www.youtube.com/watch?v=nAHzzx8oges
+
 .. _Google Play Store: https://play.google.com/store/apps/details?id=com.warden.cam
-.. _Apple iTunes Store: https://itunes.apple.com/app/id914224766
+.. _Apple App Store: https://itunes.apple.com/app/id914224766
 .. _demo video: https://www.youtube.com/watch?v=nAHzzx8oges
+.. _Online Forum: https://groups.google.com/forum/#!forum/wardencam

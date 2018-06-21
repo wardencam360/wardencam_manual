@@ -6,7 +6,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>Camera Settings &mdash; WardenCam User Manual 1.0 documentation</title>
+    <title>Camera Mode &mdash; WardenCam User Manual 1.0 documentation</title>
     
     <link rel="stylesheet" href="_static/default.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
@@ -24,9 +24,8 @@
     <script type="text/javascript" src="_static/underscore.js"></script>
     <script type="text/javascript" src="_static/doctools.js"></script>
     <link rel="top" title="WardenCam User Manual 1.0 documentation" href="index.html" />
-    <link rel="up" title="Customization" href="customization.html" />
-    <link rel="next" title="Dropbox Settings" href="dropbox.html" />
-    <link rel="prev" title="User Options" href="useroption.html" /> 
+    <link rel="next" title="Camera Main Screen" href="cameramain.html" />
+    <link rel="prev" title="Cloud View" href="viewercloud.html" /> 
   </head>
   <body>
     <div class="related">
@@ -36,13 +35,12 @@
           <a href="genindex.html" title="General Index"
              accesskey="I">index</a></li>
         <li class="right" >
-          <a href="dropbox.html" title="Dropbox Settings"
+          <a href="cameramain.html" title="Camera Main Screen"
              accesskey="N">next</a> |</li>
         <li class="right" >
-          <a href="useroption.html" title="User Options"
+          <a href="viewercloud.html" title="Cloud View"
              accesskey="P">previous</a> |</li>
-        <li><a href="index.html">WardenCam User Manual 1.0 documentation</a> &raquo;</li>
-          <li><a href="customization.html" accesskey="U">Customization</a> &raquo;</li> 
+        <li><a href="index.html">WardenCam User Manual 1.0 documentation</a> &raquo;</li> 
       </ul>
     </div>  
 
@@ -51,70 +49,57 @@
         <div class="bodywrapper">
           <div class="body">
             
-  <div class="section" id="camera-settings">
-<span id="camera"></span><h1>Camera Settings<a class="headerlink" href="#camera-settings" title="Permalink to this headline">¶</a></h1>
-<div class="line-block">
-<div class="line"><strong>Changing the camera settings is only effective if the device is being used as the camera.</strong></div>
-<div class="line"><br /></div>
-<div class="line"><a class="reference internal" href="_images/camera_settings.png"><img alt="user options" src="_images/camera_settings.png" style="width: 480pt;" /></a></div>
-</div>
-<div class="section" id="use-front-camera">
-<h2>Use Front Camera<a class="headerlink" href="#use-front-camera" title="Permalink to this headline">¶</a></h2>
-<p>Select to use front camera, only if the front camera is available.</p>
-</div>
-<div class="section" id="video-resolution">
-<h2>Video Resolution<a class="headerlink" href="#video-resolution" title="Permalink to this headline">¶</a></h2>
-<div class="line-block">
-<div class="line">Choose a image resolution that gives the best performance.</div>
-<div class="line">A higher resolution will demand a higher device computation resource (CPU power &amp; memory) and a higher internet bandwidth utilization.</div>
-</div>
-</div>
-<div class="section" id="image-quality">
-<h2>Image Quality<a class="headerlink" href="#image-quality" title="Permalink to this headline">¶</a></h2>
-<div class="line-block">
-<div class="line">Choose low or high image quality</div>
-<div class="line">High image quality settings will lead to a higher internet bandwidth usage.</div>
-</div>
-</div>
-<div class="section" id="disable-audio">
-<h2>Disable Audio<a class="headerlink" href="#disable-audio" title="Permalink to this headline">¶</a></h2>
-<div class="line-block">
-<div class="line">You can disable audio to get a better video quality, such as a higher fps.</div>
-</div>
-</div>
-<div class="section" id="save-power">
-<h2>Save Power<a class="headerlink" href="#save-power" title="Permalink to this headline">¶</a></h2>
-<div class="line-block">
-<div class="line">Some newer device has a very fast CPU which can produce a high fps.</div>
-<div class="line">However running WardenCam on those device will keep consuming power even if the device is being charged all the time.</div>
-<div class="line">Enable save power to reduce fps and lower the kbps. As a result, the device will not losing power while running as surveillance camera.</div>
-</div>
-</div>
-<div class="section" id="activate-siren-alarm">
-<h2>Activate Siren Alarm<a class="headerlink" href="#activate-siren-alarm" title="Permalink to this headline">¶</a></h2>
-<div class="line-block">
-<div class="line">Enable this to generate a siren alarm when a motion event is detected.</div>
-</div>
-</div>
-<div class="section" id="auto-detection-schedule">
-<h2>Auto Detection Schedule<a class="headerlink" href="#auto-detection-schedule" title="Permalink to this headline">¶</a></h2>
-<div class="line-block">
-<div class="line">To define a daily schedule to start/stop motion detection at predefine time.</div>
-</div>
-</div>
-<div class="section" id="send-email-alert">
-<h2>Send Email Alert<a class="headerlink" href="#send-email-alert" title="Permalink to this headline">¶</a></h2>
-<div class="line-block">
-<div class="line">Enable this to send an email alert to user&#8217;s WardenCam sign in email address. Use email alert only if a Dropbox account is linked.</div>
-</div>
-</div>
-<div class="section" id="night-vision">
-<h2>Night Vision<a class="headerlink" href="#night-vision" title="Permalink to this headline">¶</a></h2>
-<div class="line-block">
-<div class="line">WardenCam has a night vision algorithm to enhance image visibility during low ambient light condition</div>
-<div class="line">Default option is &#8220;automatic&#8221; which means WardenCam will decide when to use night vision according to the ambient light condition.</div>
-<div class="line">You can also use &#8220;Always On&#8221; &amp; &#8220;Always Off&#8221;</div>
-</div>
+  <div class="section" id="camera-mode">
+<h1>Camera Mode<a class="headerlink" href="#camera-mode" title="Permalink to this headline">¶</a></h1>
+<div class="toctree-wrapper compound">
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="cameramain.html">Camera Main Screen</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="cameramain.html#camera-menu">1. Camera Menu</a></li>
+<li class="toctree-l2"><a class="reference internal" href="cameramain.html#switch-to-viewer-mode">2. Switch to Viewer Mode</a></li>
+<li class="toctree-l2"><a class="reference internal" href="cameramain.html#camera-live-view">3. Camera live view</a></li>
+<li class="toctree-l2"><a class="reference internal" href="cameramain.html#zoom">4. Zoom</a></li>
+<li class="toctree-l2"><a class="reference internal" href="cameramain.html#record">5. Record</a></li>
+<li class="toctree-l2"><a class="reference internal" href="cameramain.html#motion-detect">6. Motion Detect</a></li>
+<li class="toctree-l2"><a class="reference internal" href="cameramain.html#flashlight">7. Flashlight</a></li>
+<li class="toctree-l2"><a class="reference internal" href="cameramain.html#reverse-camera">8. Reverse Camera</a></li>
+<li class="toctree-l2"><a class="reference internal" href="cameramain.html#exposure">9. Exposure</a></li>
+<li class="toctree-l2"><a class="reference internal" href="cameramain.html#turn-off-display-message">10. Turn off Display Message</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="cameramenu.html">Camera Menu</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="cameramenu.html#name-and-email">Name and Email</a></li>
+<li class="toctree-l2"><a class="reference internal" href="cameramenu.html#license-type">License Type</a></li>
+<li class="toctree-l2"><a class="reference internal" href="cameramenu.html#to-viewer-mode">To Viewer Mode</a></li>
+<li class="toctree-l2"><a class="reference internal" href="cameramenu.html#name-the-camera">Name the Camera</a></li>
+<li class="toctree-l2"><a class="reference internal" href="cameramenu.html#cloud">Cloud</a></li>
+<li class="toctree-l2"><a class="reference internal" href="cameramenu.html#power-saving-mode">Power Saving Mode</a></li>
+<li class="toctree-l2"><a class="reference internal" href="cameramenu.html#upgrade">Upgrade</a></li>
+<li class="toctree-l2"><a class="reference internal" href="cameramenu.html#store">Store</a></li>
+<li class="toctree-l2"><a class="reference internal" href="cameramenu.html#settings">Settings</a></li>
+<li class="toctree-l2"><a class="reference internal" href="cameramenu.html#sign-out">Sign Out</a></li>
+<li class="toctree-l2"><a class="reference internal" href="cameramenu.html#version">Version</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="camerasetting.html">Camera Settings</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="camerasetting.html#legacy-login">Legacy Login</a></li>
+<li class="toctree-l2"><a class="reference internal" href="camerasetting.html#video-resolution">Video Resolution</a></li>
+<li class="toctree-l2"><a class="reference internal" href="camerasetting.html#image-quality">Image Quality</a></li>
+<li class="toctree-l2"><a class="reference internal" href="camerasetting.html#exposure-compensation">Exposure Compensation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="camerasetting.html#motion-detection-sensitivity">Motion Detection Sensitivity</a></li>
+<li class="toctree-l2"><a class="reference internal" href="camerasetting.html#rotate-image">Rotate Image</a></li>
+<li class="toctree-l2"><a class="reference internal" href="camerasetting.html#disable-audio">Disable Audio</a></li>
+<li class="toctree-l2"><a class="reference internal" href="camerasetting.html#reduce-power-usage">Reduce Power Usage</a></li>
+<li class="toctree-l2"><a class="reference internal" href="camerasetting.html#activate-siren-alarm">Activate Siren Alarm</a></li>
+<li class="toctree-l2"><a class="reference internal" href="camerasetting.html#auto-restart">Auto-restart</a></li>
+<li class="toctree-l2"><a class="reference internal" href="camerasetting.html#send-email-alert">Send Email Alert</a></li>
+<li class="toctree-l2"><a class="reference internal" href="camerasetting.html#automatic-night-vision">Automatic Night Vision</a></li>
+<li class="toctree-l2"><a class="reference internal" href="camerasetting.html#auto-detection-schedule">Auto Detection Schedule</a></li>
+<li class="toctree-l2"><a class="reference internal" href="camerasetting.html#share-live-view">Share Live View</a></li>
+<li class="toctree-l2"><a class="reference internal" href="camerasetting.html#max-recording-folder-size">Max Recording Folder Size</a></li>
+<li class="toctree-l2"><a class="reference internal" href="camerasetting.html#use-external-sd-card">Use external SD Card</a></li>
+</ul>
+</li>
+</ul>
 </div>
 </div>
 
@@ -124,28 +109,12 @@
       </div>
       <div class="sphinxsidebar">
         <div class="sphinxsidebarwrapper">
-  <h3><a href="index.html">Table Of Contents</a></h3>
-  <ul>
-<li><a class="reference internal" href="#">Camera Settings</a><ul>
-<li><a class="reference internal" href="#use-front-camera">Use Front Camera</a></li>
-<li><a class="reference internal" href="#video-resolution">Video Resolution</a></li>
-<li><a class="reference internal" href="#image-quality">Image Quality</a></li>
-<li><a class="reference internal" href="#disable-audio">Disable Audio</a></li>
-<li><a class="reference internal" href="#save-power">Save Power</a></li>
-<li><a class="reference internal" href="#activate-siren-alarm">Activate Siren Alarm</a></li>
-<li><a class="reference internal" href="#auto-detection-schedule">Auto Detection Schedule</a></li>
-<li><a class="reference internal" href="#send-email-alert">Send Email Alert</a></li>
-<li><a class="reference internal" href="#night-vision">Night Vision</a></li>
-</ul>
-</li>
-</ul>
-
   <h4>Previous topic</h4>
-  <p class="topless"><a href="useroption.html"
-                        title="previous chapter">User Options</a></p>
+  <p class="topless"><a href="viewercloud.html"
+                        title="previous chapter">Cloud View</a></p>
   <h4>Next topic</h4>
-  <p class="topless"><a href="dropbox.html"
-                        title="next chapter">Dropbox Settings</a></p>
+  <p class="topless"><a href="cameramain.html"
+                        title="next chapter">Camera Main Screen</a></p>
   <h3>This Page</h3>
   <ul class="this-page-menu">
     <li><a href="_sources/camera.txt"
@@ -175,13 +144,12 @@
           <a href="genindex.html" title="General Index"
              >index</a></li>
         <li class="right" >
-          <a href="dropbox.html" title="Dropbox Settings"
+          <a href="cameramain.html" title="Camera Main Screen"
              >next</a> |</li>
         <li class="right" >
-          <a href="useroption.html" title="User Options"
+          <a href="viewercloud.html" title="Cloud View"
              >previous</a> |</li>
-        <li><a href="index.html">WardenCam User Manual 1.0 documentation</a> &raquo;</li>
-          <li><a href="customization.html" >Customization</a> &raquo;</li> 
+        <li><a href="index.html">WardenCam User Manual 1.0 documentation</a> &raquo;</li> 
       </ul>
     </div>
     <div class="footer">

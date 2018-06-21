@@ -1,16 +1,16 @@
 WardenCam User Manual
 ======================================
 
-
 Contents:
 
 .. toctree::
     :maxdepth: 2
 
-    purpose
     start
-    navigation
-    customization
+    signIn
+    viewer
+    camera
+    web
     trial&upgrade
+    helpfaq
     helpUsOut
-    faq

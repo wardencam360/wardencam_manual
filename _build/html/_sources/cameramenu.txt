@@ -1,0 +1,54 @@
+.. _cameramenu:
+
+Camera Menu
+=================
+
+| |camera-menu|
+.. |camera-menu| image:: img/camera-menu.png
+  :width: 200pt
+
+Name and Email
+-------------------------
+| The device's WardenCam app is linked to this email account. All your devices must have the same gmail account to link together.
+
+License Type
+-------------------------
+| The license type is displayed as Free or Pro. To upgrade to Pro, see :ref:`trialupgrade`   
+   
+To Viewer Mode
+-------------------------
+| This switches the device to Viewer mode. See :ref:`viewermain`
+
+Name the Camera
+-------------------------
+| Name your device to identify each camera device. 
+| Example: Kitchen, Baby Room, Front Door
+   
+Cloud
+-------------------------
+| Set your cloud storage location (Dropbox or Google Drive).
+
+Power Saving Mode
+-------------------------
+| Sets this camera to reduce power usage by slowing down frame rate. Motion detection and recording remains on. Starting Android 8.0+, the camera has to be in the power saving mode in order to continue running. Turning off the display will force camera to stop.
+
+Upgrade
+-------------------------
+| Upgrade to our Pro Version. See :ref:`trialupgrade`
+   
+Store
+-------------------------
+| `Visit our Store <https://www.ecwid.com/store/wardencam360/>`_
+   
+Settings
+-------------------------
+| Opens :ref:`camerasetting` screen
+   
+Sign Out
+-------------------------
+| Sign out and disconnect WardenCam from your Google Account.
+   
+Version
+-------------------------
+| Displays version number to help us troubleshoot. Try updating all your devices first as bugs are continually fixed. If you run into issues, please let us know and provide the Version.  
+

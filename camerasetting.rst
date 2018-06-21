@@ -1,0 +1,98 @@
+.. _camerasetting:
+
+Camera Settings
+=================
+
+| |camera-settings|
+.. |camera-settings| image:: img/camera-settings.png
+  :width: 200pt
+
+Legacy Login
+-------------------------
+Older android phones running older Android OS, may require the legacy login to properly login.
+
+Video Resolution 
+-------------------------
+Pro Version Only
+Choose a image resolution that gives the best performance.
+A higher resolution will demand a higher device computation resource (CPU power & memory) and a higher internet bandwidth utilization.
+
+Image Quality
+-------------------------
+Pro Version Only
+Choose low or high image quality
+High image quality settings will lead to a higher internet bandwidth usage.
+
+Exposure Compensation
+-------------------------
+Choose exposure levels to brighten or darken the video.
+	
+Motion Detection Sensitivity
+-------------------------
+Choose high, default, low sensitivity to trigger a motion event and record video.
+
+Rotate Image
+-------------------------
+Rotate the Camera video image 0, 90, 180, or 270 degrees.
+
+Disable Audio
+-------------------------
+You can disable audio to get a better video quality, such as a higher fps.
+
+Reduce Power Usage
+-------------------------
+Some newer device has a very fast CPU which can produce a high fps.
+However running WardenCam on those device will keep consuming power even if the device is being charged all the time.
+Enable save power to reduce fps and lower the kbps. As a result, the device will not losing power while running as surveillance camera.
+
+Activate Siren Alarm
+-------------------------
+Enable this to generate a siren alarm when a motion event is detected.
+
+Auto-restart
+-------------------------
+Automaticly starts WardenCam when a device finishes rebooting.
+WardenCam will sign in with the saved account information.
+Enable this option on the camera device to improve reliability.
+
+Send Email Alert
+-------------------------
+Enable this to send an email alert to user's WardenCam sign in email address, and restart the app. After restarting the App and signing in, you'll need to grant permissions to allow the app to send emails.
+
+Automatic Night Vision
+-------------------------
+WardenCam has a night vision algorithm to enhance image visibility in low ambient light condition
+Default option is "automatic" which means WardenCam will decide when to use night vision according to the ambient light condition.
+You can also use "Always On" & "Always Off"
+
+Auto Detection Schedule
+-------------------------
+To define a daily schedule to start/stop motion detection at predefine time.
+
+Share Live View
+-----------------------------
+| Share with other Google accounts. If your family wants to see your Wardencam cameras, perform the following steps:
+
+| 1. In the owner's camera device, go to Share Live View and type in family/friend email.	
+| 2. In the family/friends viewer device, go to Share Live View and type in the owner's email. 
+|
+| Watch a video on how to `share`_.
+.. image:: img/share_view.jpg
+   :width: 150pt
+   :align: center
+   :target: https://www.youtube.com/watch?v=8alUzE42KiE
+
+.. _share: https://www.youtube.com/watch?v=8alUzE42KiE
+
+Max Recording Folder Size 
+-------------------------
+| For Manual Recording Only
+| Set the Maximum Folder Size for Videos. As the total videos reach the max folder size limit, the oldest videos are removed to make space for the new videos. This setting does not affect Motion Detected Recordings.
+|	
+| For Motion Detected Videos:
+| Free Users - up to 500 motion recordings
+| Pro Users - up to 2000 motion recordings
+
+Use external SD Card
+-------------------------
+Some phones have internal and external storage. This option, saves the video to external SD card storage temporarily before uploaded to cloud.

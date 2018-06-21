@@ -1,4 +1,4 @@
-Welcome to WardenCam!
+WardenCam User Manual
 ======================================
 
 Contents:
@@ -7,7 +7,10 @@ Contents:
     :maxdepth: 2
 
     start
-    navigation
-    customization
+    signIn
+    viewer
+    camera
+    web
     trial&upgrade
-    faq
+    helpfaq
+    helpUsOut
