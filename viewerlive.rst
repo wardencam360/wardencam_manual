@@ -93,7 +93,7 @@ The motion detect number is the number of motion detected events and video saved
 
 16. Zoom In
 --------------------------------
-|  Rotate between portrait and landscape.
+|  Rotate from portrait to landscape.
 |  In landscape mode, use **pinch gesture** or the zoom bar to scale the video, and **finger drag** to focus around when zoomed in.
 |
 
