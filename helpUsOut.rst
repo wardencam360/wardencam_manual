@@ -17,7 +17,7 @@ Be a translation hero!
 | Free app upgrades as token of appeciation for those who help.
 
 | Check out our current needs:
-| https://docs.google.com/spreadsheets/d/1Aa1bpT6ETIKkltxiukTeeLZtmTHDvE85tDhqsgn-gck/edit?usp=sharing
+| https://goo.gl/4kUj2h
 
 | Then email support@wardencam360.com with the subject "Translation hero" and your translation! We thank you for your help!
 

@@ -2,7 +2,8 @@
 
 Viewer LiveView
 ===================
-| Selecting a camera from the viewer home screen, you'll see this live view Screen.
+| Selecting a camera from the viewer home screen, you'll see this live view Screen which can be viewed in Portrait or Landscape view. See #15 Rotate Screen.
+
 | It shows **live streaming** video from your other Wardencam connected "camera" devices
 
 | |viewerlive|    |viewerlivelandscape|
@@ -61,8 +62,12 @@ Viewer LiveView
 
 10. Motion Detect
 --------------------------------
-|  Turn on or off the camera's motion detect. When on, a red grid will appear. The red zones are the areas if motion is detected, Wardencam records the video to the cloud. The motion detect number is the number of motion detected events and video saved.
-To setup Zone based detection, from the viewer, you'll need to go to landscape mode.
+|  Turn on or off the camera's motion detect. 
+
+| For Regional Motion Detection, View in landscape mode with the #15 Rotate Screen Button. When on, a red grid will appear. The red zones are motion detection areas which records if theres movement. The clear(non-red) areas as you see on the bottom left of the image will ignore motion, 
+The motion detect number is the number of motion detected events and video saved.
+
+|viewerlivelandscapemotion|
 
 11. Night Vision
 --------------------------------
@@ -86,11 +91,19 @@ To setup Zone based detection, from the viewer, you'll need to go to landscape m
 |  In landscape mode, use pinch gesture to further scale the video
 |
 
+16. Zoom In
+--------------------------------
+|  Rotate from portrait to landscape.
+|  In landscape mode, use **pinch gesture** or the zoom bar to scale the video, and **finger drag** to focus around when zoomed in.
+|
+
 .. |viewerlive| image:: img/viewerlive.png
    :width: 200pt
    
 .. |viewerlivelandscape| image:: img/viewerlivelandscape.png
    :width: 300pt   
    
-   
+.. |viewerlivelandscapemotion| image:: img/viewerlivelandscapemotion.png
+   :width: 300pt
+     
    
