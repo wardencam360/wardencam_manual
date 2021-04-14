@@ -14,3 +14,4 @@ Contents:
     trial&upgrade
     helpfaq
     helpUsOut
+    privacypolicy
